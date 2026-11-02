@@ -1,0 +1,11 @@
+o_warehouse_id = UPPER(LTRIM(RTRIM(warehouse_id)))
+o_city = INITCAP(LTRIM(RTRIM(city))) 
+o_state = INITCAP(LTRIM(RTRIM(state)))
+o_temp_flag = IIF(ISNULL(temperature_control_flag) OR LTRIM(RTRIM(temperature_control_flag))='', 'N', UPPER(temperature_control_flag)) 
+o_active_flag = IIF(ISNULL(active_flag), 'N', UPPER(active_flag))
+o_region = DECODE(TRUE, IN(state,'Telangana','Tamil Nadu','Kerala','Karnataka'), 'South', IN(state,'West Bengal'), 
+'East', IN(state,'Delhi NCR','Uttar Pradesh','Rajasthan'), 'North', IN(state,'Gujarat','Maharashtra'), 'West', 'UNKNOWN') 
+v_ts_clean = REPLACESTR(1, REPLACESTR(1, source_updated_ts, 'T', ' '), 'Z', '') 
+o_source_upd_ts = TO_DATE(v_ts_clean, 'YYYY-MM-DD HH24:MI:SS') 
+o_error_reason = IIF(ISNULL(warehouse_id), 'MISSING_ID', IIF(capacity_units <= 0, 'INVALID_CAPACITY', 'VALID'))
+o_load_ts = SYSDATE
