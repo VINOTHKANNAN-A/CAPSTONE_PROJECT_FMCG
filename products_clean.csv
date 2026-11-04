@@ -1,0 +1,799 @@
+source_updated_ts,product_id,product_name,category,sub_category,brand,unit_cost,list_price,shelf_life_days,pack_size,active_flag
+2025/12/01 01:00:00,PRD000001,Natural Biscuits 1,Snacks,Biscuits,Utsav,75.86,116.25,30,1,Y
+2025/12/01 02:00:00,PRD000002,Gold Skin Care 2,Personal Care,Skin Care,Utsav,83.56,101.94,90,250,Y
+2025/12/01 03:00:00,PRD000003,Daily Detergent 3,Home Care,Detergent,Prakriti,333.75,437.23,540,500,Y
+2025/12/01 04:00:00,PRD000004,Daily Grains 4,Staples,Grains,Navya,255.25,373.83,540,1,Y
+2025/12/01 05:00:00,PRD000005,Natural Juice 5,Beverages,Juice,Aarohan,234.64,277.86,540,1,Y
+2025/12/01 06:00:00,PRD000006,Fresh Biscuits 6,Snacks,Biscuits,Utsav,200.09,307.45,365,500,Y
+2025/12/01 07:00:00,PRD000007,Daily Skin Care 7,Personal Care,Skin Care,Aarohan,69.89,99.82,365,250,Y
+2025/12/01 08:00:00,PRD000008,Fresh Detergent 8,Home Care,Detergent,Sampoorna,123.53,183.11,365,1,Y
+2025/12/01 09:00:00,PRD000009,Natural Grains 9,Staples,Grains,Utsav,31.99,41.24,365,250,Y
+2025/12/01 10:00:00,PRD000010,Fresh Juice 10,Beverages,Juice,Navya,200.23,266.64,365,500,Y
+2025/12/01 11:00:00,PRD000011,Fresh Biscuits 11,Snacks,Biscuits,Prakriti,388.97,578.56,540,100,Y
+2025/12/01 12:00:00,PRD000012,Classic Skin Care 12,Personal Care,Skin Care,Sampoorna,212.19,246.77,180,500,Y
+2025/12/01 13:00:00,PRD000013,Classic Detergent 13,Home Care,Detergent,Prakriti,429.40,636.01,540,250,Y
+2025/12/01 14:00:00,PRD000014,Gold Grains 14,Staples,Grains,Utsav,309.32,370.21,180,100,Y
+2025/12/01 15:00:00,PRD000015,Fresh Juice 15,Beverages,Juice,Aarohan,299.75,373.39,365,1,Y
+2025/12/01 16:00:00,PRD000016,Daily Biscuits 16,Snacks,Biscuits,Aarohan,219.27,332.65,30,250,Y
+2025/12/01 17:00:00,PRD000017,Daily Skin Care 17,Personal Care,Skin Care,Sampoorna,308.78,412.16,90,100,Y
+2025/12/01 18:00:00,PRD000018,Daily Detergent 18,Home Care,Detergent,Aarohan,57.38,71.31,540,1,Y
+2025/12/01 19:00:00,PRD000019,Gold Grains 19,Staples,Grains,Utsav,296.47,342.20,365,250,Y
+2025/12/01 20:00:00,PRD000020,Gold Juice 20,Beverages,Juice,Prakriti,402.89,534.37,90,1,Y
+2025/12/01 22:00:00,PRD000022,Daily Skin Care 22,Personal Care,Skin Care,Utsav,25.21,40.19,180,1,Y
+2025/12/01 23:00:00,PRD000023,Classic Detergent 23,Home Care,Detergent,Prakriti,333.76,487.29,90,100,Y
+2025/12/02 00:00:00,PRD000024,Classic Grains 24,Staples,Grains,Aarohan,66.72,89.67,540,1,Y
+2025/12/02 01:00:00,PRD000025,Gold Juice 25,Beverages,Juice,Aarohan,193.38,258.46,540,1,Y
+2025/12/02 02:00:00,PRD000026,Daily Biscuits 26,Snacks,Biscuits,Utsav,182.75,227.05,30,100,Y
+2025/12/02 03:00:00,PRD000027,Fresh Skin Care 27,Personal Care,Skin Care,Navya,331.19,436.26,180,1,Y
+2025/12/02 04:00:00,PRD000028,Classic Detergent 28,Home Care,Detergent,Prakriti,276.34,335.12,30,250,Y
+2025/12/02 05:00:00,PRD000029,Fresh Grains 29,Staples,Grains,Navya,161.85,198.98,540,250,Y
+2025/12/02 06:00:00,PRD000030,Daily Juice 30,Beverages,Juice,Sampoorna,333.35,397.28,180,1,Y
+2025/12/02 07:00:00,PRD000031,Daily Biscuits 31,Snacks,Biscuits,Aarohan,342.23,522.85,540,250,Y
+2025/12/02 08:00:00,PRD000032,Gold Skin Care 32,Personal Care,Skin Care,Aarohan,102.30,117.79,90,1,Y
+2025/12/02 09:00:00,PRD000033,Classic Detergent 33,Home Care,Detergent,Sampoorna,50.46,77.71,90,500,Y
+2025/12/02 10:00:00,PRD000034,Classic Grains 34,Staples,Grains,Sampoorna,255.25,350.97,30,250,Y
+2025/12/02 11:00:00,PRD000035,Daily Juice 35,Beverages,Juice,Aarohan,204.46,249.43,540,100,Y
+2025/12/02 12:00:00,PRD000036,Natural Biscuits 36,Snacks,Biscuits,Prakriti,60.00,72.49,30,1,Y
+2025/12/02 13:00:00,PRD000037,Gold Skin Care 37,Personal Care,Skin Care,Sampoorna,456.94,636.23,180,500,Y
+2025/12/02 14:00:00,PRD000038,Fresh Detergent 38,Home Care,Detergent,Aarohan,168.37,228.35,540,1,Y
+2025/12/02 15:00:00,PRD000039,Natural Grains 39,Staples,Grains,Aarohan,26.26,41.43,540,1,Y
+2025/12/02 16:00:00,PRD000040,Daily Juice 40,Beverages,Juice,Aarohan,73.48,116.09,365,500,Y
+2025/12/02 17:00:00,PRD000041,Daily Biscuits 41,Snacks,Biscuits,Utsav,272.69,367.64,365,1,Y
+2025/12/02 18:00:00,PRD000042,Fresh Skin Care 42,Personal Care,Skin Care,Utsav,162.71,202.64,30,100,Y
+2025/12/02 19:00:00,PRD000043,Gold Detergent 43,Home Care,Detergent,Prakriti,207.71,331.84,180,500,Y
+2025/12/02 20:00:00,PRD000044,Gold Grains 44,Staples,Grains,Navya,42.96,68.65,540,1,Y
+2025/12/02 21:00:00,PRD000045,Gold Juice 45,Beverages,Juice,Sampoorna,69.43,93.63,365,250,Y
+2025/12/02 22:00:00,PRD000046,Fresh Biscuits 46,Snacks,Biscuits,Aarohan,106.26,138.10,540,100,Y
+2025/12/02 23:00:00,PRD000047,Natural Skin Care 47,Personal Care,Skin Care,Sampoorna,375.32,467.63,30,500,Y
+2025/12/03 00:00:00,PRD000048,Fresh Detergent 48,Home Care,Detergent,Aarohan,361.59,472.91,365,100,Y
+2025/12/03 01:00:00,PRD000049,Gold Grains 49,Staples,Grains,Navya,466.09,689.12,30,1,Y
+2025/12/03 02:00:00,PRD000050,Gold Juice 50,Beverages,Juice,Sampoorna,114.21,173.12,90,500,Y
+2025/12/03 03:00:00,PRD000051,Daily Biscuits 51,Snacks,Biscuits,Utsav,289.01,348.60,30,500,Y
+2025/12/03 04:00:00,PRD000052,Classic Skin Care 52,Personal Care,Skin Care,Utsav,408.08,644.77,365,100,Y
+2025/12/03 05:00:00,PRD000053,Fresh Detergent 53,Home Care,Detergent,Prakriti,258.67,410.78,540,500,Y
+2025/12/03 06:00:00,PRD000054,Daily Grains 54,Staples,Grains,Prakriti,373.14,467.26,30,250,Y
+2025/12/03 07:00:00,PRD000055,Natural Juice 55,Beverages,Juice,Aarohan,294.53,441.69,180,250,Y
+2025/12/03 08:00:00,PRD000056,Classic Biscuits 56,Snacks,Biscuits,Sampoorna,93.75,114.61,180,250,Y
+2025/12/03 09:00:00,PRD000057,Fresh Skin Care 57,Personal Care,Skin Care,Aarohan,307.33,426.61,540,1,N
+2025/12/03 10:00:00,PRD000058,Fresh Detergent 58,Home Care,Detergent,Prakriti,397.46,484.41,365,100,Y
+2025/12/03 11:00:00,PRD000059,Natural Grains 59,Staples,Grains,Sampoorna,99.96,129.81,540,1,Y
+2025/12/03 12:00:00,PRD000060,Gold Juice 60,Beverages,Juice,Utsav,46.95,71.30,30,1,Y
+2025/12/03 13:00:00,PRD000061,Natural Biscuits 61,Snacks,Biscuits,Sampoorna,56.08,74.30,540,250,Y
+2025/12/03 14:00:00,PRD000062,Fresh Skin Care 62,Personal Care,Skin Care,Utsav,362.99,529.95,180,1,Y
+2025/12/03 15:00:00,PRD000063,Daily Detergent 63,Home Care,Detergent,Navya,420.00,567.82,365,100,Y
+2025/12/03 16:00:00,PRD000064,Fresh Grains 64,Staples,Grains,Aarohan,447.52,677.95,540,1,Y
+2025/12/03 17:00:00,PRD000065,Fresh Juice 65,Beverages,Juice,Prakriti,298.44,370.79,180,100,Y
+2025/12/03 18:00:00,PRD000066,Fresh Biscuits 66,Snacks,Biscuits,Prakriti,25.76,31.38,180,1,Y
+2025/12/03 19:00:00,PRD000067,Classic Skin Care 67,Personal Care,Skin Care,Navya,349.14,498.77,90,100,Y
+2025/12/03 20:00:00,PRD000068,Classic Detergent 68,Home Care,Detergent,Aarohan,364.63,477.84,365,1,Y
+2025/12/03 21:00:00,PRD000069,Gold Grains 69,Staples,Grains,Utsav,302.86,421.91,90,250,Y
+2025/12/03 22:00:00,PRD000070,Daily Juice 70,Beverages,Juice,Utsav,29.90,42.85,30,1,Y
+2025/12/03 23:00:00,PRD000071,Classic Biscuits 71,Snacks,Biscuits,Aarohan,213.50,340.35,180,100,Y
+2025/12/04 00:00:00,PRD000072,Fresh Skin Care 72,Personal Care,Skin Care,Sampoorna,418.75,485.57,90,500,Y
+2025/12/04 01:00:00,PRD000073,Natural Detergent 73,Home Care,Detergent,Utsav,340.05,530.75,30,100,Y
+2025/12/04 02:00:00,PRD000074,Classic Grains 74,Staples,Grains,Utsav,143.59,228.04,180,500,Y
+2025/12/04 03:00:00,PRD000075,Classic Juice 75,Beverages,Juice,Prakriti,290.78,413.13,540,1,Y
+2025/12/04 04:00:00,PRD000076,Natural Biscuits 76,Snacks,Biscuits,Aarohan,34.42,51.77,365,1,Y
+2025/12/04 05:00:00,PRD000077,Daily Skin Care 77,Personal Care,Skin Care,Sampoorna,302.41,388.01,540,500,Y
+2025/12/04 06:00:00,PRD000078,Fresh Detergent 78,Home Care,Detergent,Navya,134.70,206.43,90,1,Y
+2025/12/04 07:00:00,PRD000079,Natural Grains 79,Staples,Grains,Utsav,76.93,96.04,90,1,Y
+2025/12/04 08:00:00,PRD000080,Classic Juice 80,Beverages,Juice,Utsav,392.18,542.06,365,100,Y
+2025/12/18 09:15:00,PRD000081,Natural Biscuits 81,Snacks,Biscuits,Utsav,375.59,486.14,180,1,Y
+2025/12/04 10:00:00,PRD000082,Fresh Skin Care 82,Personal Care,Skin Care,Navya,20.48,27.03,30,250,Y
+2025/12/04 11:00:00,PRD000083,Daily Detergent 83,Home Care,Detergent,Sampoorna,155.04,216.76,540,1,Y
+2025/12/04 12:00:00,PRD000084,Gold Grains 84,Staples,Grains,Utsav,224.30,309.69,180,500,Y
+2025/12/04 13:00:00,PRD000085,Natural Juice 85,Beverages,Juice,Utsav,100.33,152.09,540,1,Y
+2025/12/04 14:00:00,PRD000086,Fresh Biscuits 86,Snacks,Biscuits,Navya,338.43,533.63,365,1,Y
+2025/12/04 15:00:00,PRD000087,Classic Skin Care 87,Personal Care,Skin Care,Utsav,191.76,238.99,30,100,Y
+2025/12/04 16:00:00,PRD000088,Fresh Detergent 88,Home Care,Detergent,Sampoorna,123.08,149.60,365,1,Y
+2025/12/04 17:00:00,PRD000089,Gold Grains 89,Staples,Grains,Utsav,131.35,179.12,90,500,Y
+2025/12/04 18:00:00,PRD000090,Gold Juice 90,Beverages,Juice,Prakriti,392.81,562.58,540,500,Y
+2025/12/04 19:00:00,PRD000091,Classic Biscuits 91,Snacks,Biscuits,Navya,183.54,253.83,30,1,Y
+2025/12/04 20:00:00,PRD000092,Daily Skin Care 92,Personal Care,Skin Care,Prakriti,179.02,241.83,90,250,Y
+2025/12/04 21:00:00,PRD000093,Fresh Detergent 93,Home Care,Detergent,Aarohan,255.98,327.04,540,1,Y
+2025/12/04 22:00:00,PRD000094,Natural Grains 94,Staples,Grains,Sampoorna,188.63,279.32,30,1,Y
+2025/12/04 23:00:00,PRD000095,Daily Juice 95,Beverages,Juice,Aarohan,191.08,265.84,540,500,Y
+2025/12/05 00:00:00,PRD000096,Daily Biscuits 96,Snacks,Biscuits,Sampoorna,465.79,643.63,90,1,Y
+2025/12/05 01:00:00,PRD000097,Fresh Skin Care 97,Personal Care,Skin Care,Aarohan,237.94,312.84,180,250,Y
+2025/12/05 02:00:00,PRD000098,Fresh Detergent 98,Home Care,Detergent,Prakriti,114.05,140.09,365,1,Y
+2025/12/05 03:00:00,PRD000099,Gold Grains 99,Staples,Grains,Utsav,420.14,602.36,180,500,Y
+2025/12/05 04:00:00,PRD000100,Classic Juice 100,Beverages,Juice,Utsav,300.76,467.24,30,500,Y
+2025/12/05 05:00:00,PRD000101,Natural Biscuits 101,Snacks,Biscuits,Prakriti,363.31,540.27,30,100,Y
+2025/12/05 06:00:00,PRD000102,Natural Skin Care 102,Personal Care,Skin Care,Utsav,389.03,454.69,365,1,Y
+2025/12/05 07:00:00,PRD000103,Daily Detergent 103,Home Care,Detergent,Prakriti,225.66,331.27,540,500,Y
+2025/12/05 08:00:00,PRD000104,Daily Grains 104,Staples,Grains,Prakriti,147.27,193.59,540,1,Y
+2025/12/05 09:00:00,PRD000105,Classic Juice 105,Beverages,Juice,Navya,467.81,594.81,30,100,Y
+2025/12/05 10:00:00,PRD000106,Gold Biscuits 106,Snacks,Biscuits,Prakriti,269.54,421.49,180,100,Y
+2025/12/05 11:00:00,PRD000107,Classic Skin Care 107,Personal Care,Skin Care,Utsav,29.69,41.69,30,500,Y
+2025/12/05 12:00:00,PRD000108,Natural Detergent 108,Home Care,Detergent,Navya,367.33,523.69,180,100,Y
+2025/12/05 13:00:00,PRD000109,Fresh Grains 109,Staples,Grains,Utsav,395.75,553.61,180,500,Y
+2025/12/05 14:00:00,PRD000110,Gold Juice 110,Beverages,Juice,Sampoorna,119.86,173.23,540,100,Y
+2025/12/05 15:00:00,PRD000111,Fresh Biscuits 111,Snacks,Biscuits,Prakriti,51.24,80.94,90,1,Y
+2025/12/05 16:00:00,PRD000112,Fresh Skin Care 112,Personal Care,Skin Care,Prakriti,148.02,182.24,365,250,Y
+2025/12/05 17:00:00,PRD000113,Gold Detergent 113,Home Care,Detergent,Sampoorna,149.35,197.37,30,500,Y
+2025/12/05 18:00:00,PRD000114,Daily Grains 114,Staples,Grains,Sampoorna,242.40,367.06,180,250,N
+2025/12/05 19:00:00,PRD000115,Classic Juice 115,Beverages,Juice,Prakriti,342.63,435.58,365,500,Y
+2025/12/05 20:00:00,PRD000116,Fresh Biscuits 116,Snacks,Biscuits,Aarohan,311.13,435.08,540,1,Y
+2025/12/05 21:00:00,PRD000117,Classic Skin Care 117,Personal Care,Skin Care,Aarohan,88.77,141.22,540,1,Y
+2025/12/05 22:00:00,PRD000118,Fresh Detergent 118,Home Care,Detergent,Prakriti,465.75,539.06,30,1,Y
+2025/12/05 23:00:00,PRD000119,Classic Grains 119,Staples,Grains,Sampoorna,225.75,291.92,180,500,Y
+2025/12/06 00:00:00,PRD000120,Natural Juice 120,Beverages,Juice,Navya,81.87,117.51,180,1,Y
+2025/12/06 01:00:00,PRD000121,Natural Biscuits 121,Snacks,Biscuits,Prakriti,46.40,67.14,90,250,Y
+2025/12/06 02:00:00,PRD000122,Daily Skin Care 122,Personal Care,Skin Care,Sampoorna,127.55,159.57,30,500,Y
+2025/12/06 03:00:00,PRD000123,Gold Detergent 123,Home Care,Detergent,Sampoorna,462.52,680.02,180,100,Y
+2025/12/06 04:00:00,PRD000124,Classic Grains 124,Staples,Grains,Utsav,206.91,302.34,90,500,Y
+2025/12/06 05:00:00,PRD000125,Daily Juice 125,Beverages,Juice,Prakriti,22.39,28.65,180,1,Y
+2025/12/06 06:00:00,PRD000126,Natural Biscuits 126,Snacks,Biscuits,Utsav,218.25,291.32,540,500,Y
+2025/12/06 07:00:00,PRD000127,Fresh Skin Care 127,Personal Care,Skin Care,Navya,57.40,90.48,540,100,Y
+2025/12/06 08:00:00,PRD000128,Gold Detergent 128,Home Care,Detergent,Aarohan,358.05,509.72,540,1,Y
+2025/12/06 09:00:00,PRD000129,Daily Grains 129,Staples,Grains,Aarohan,290.93,435.51,90,1,Y
+2025/12/06 10:00:00,PRD000130,Gold Juice 130,Beverages,Juice,Navya,374.55,468.52,540,1,Y
+2025/12/06 11:00:00,PRD000131,Classic Biscuits 131,Snacks,Biscuits,Aarohan,42.17,52.16,540,100,Y
+2025/12/06 12:00:00,PRD000132,Natural Skin Care 132,Personal Care,Skin Care,Sampoorna,311.63,415.82,30,250,Y
+2025/12/06 13:00:00,PRD000133,Classic Detergent 133,Home Care,Detergent,Aarohan,279.12,443.31,90,1,Y
+2025/12/06 14:00:00,PRD000134,Fresh Grains 134,Staples,Grains,Prakriti,276.14,440.02,540,1,Y
+2025/12/06 15:00:00,PRD000135,Natural Juice 135,Beverages,Juice,Prakriti,72.26,97.66,365,1,Y
+2025/12/06 16:00:00,PRD000136,Fresh Biscuits 136,Snacks,Biscuits,Navya,150.13,200.25,90,500,Y
+2025/12/06 17:00:00,PRD000137,Classic Skin Care 137,Personal Care,Skin Care,Prakriti,296.30,472.15,365,250,Y
+2025/12/06 18:00:00,PRD000138,Daily Detergent 138,Home Care,Detergent,Aarohan,114.25,181.02,180,100,Y
+2025/12/06 19:00:00,PRD000139,Classic Grains 139,Staples,Grains,Aarohan,425.55,590.25,365,500,Y
+2025/12/06 20:00:00,PRD000140,Gold Juice 140,Beverages,Juice,Aarohan,406.57,584.79,90,500,Y
+2025/12/06 21:00:00,PRD000141,Gold Biscuits 141,Snacks,Biscuits,Utsav,219.82,252.90,540,500,Y
+2025/12/06 22:00:00,PRD000142,Classic Skin Care 142,Personal Care,Skin Care,Navya,441.38,558.49,365,1,Y
+2025/12/06 23:00:00,PRD000143,Classic Detergent 143,Home Care,Detergent,Utsav,62.83,91.89,540,1,Y
+2025/12/07 00:00:00,PRD000144,Fresh Grains 144,Staples,Grains,Utsav,170.45,249.83,180,1,Y
+2025/12/07 01:00:00,PRD000145,Fresh Juice 145,Beverages,Juice,Prakriti,129.84,182.55,90,100,Y
+2025/12/07 02:00:00,PRD000146,Classic Biscuits 146,Snacks,Biscuits,Navya,248.03,329.13,365,1,Y
+2025/12/07 03:00:00,PRD000147,Fresh Skin Care 147,Personal Care,Skin Care,Prakriti,450.43,538.34,365,1,Y
+2025/12/07 04:00:00,PRD000148,Daily Detergent 148,Home Care,Detergent,Aarohan,235.37,355.55,180,100,Y
+2025/12/07 05:00:00,PRD000149,Natural Grains 149,Staples,Grains,Utsav,456.74,556.58,540,250,Y
+2025/12/07 06:00:00,PRD000150,Gold Juice 150,Beverages,Juice,Utsav,129.78,156.83,90,250,Y
+2025/12/07 07:00:00,PRD000151,Daily Biscuits 151,Snacks,Biscuits,Navya,188.87,260.03,90,1,Y
+2025/12/07 08:00:00,PRD000152,Fresh Skin Care 152,Personal Care,Skin Care,Navya,265.27,347.28,365,500,Y
+2025/12/07 09:00:00,PRD000153,Daily Detergent 153,Home Care,Detergent,Navya,168.43,233.69,180,1,Y
+2025/12/07 10:00:00,PRD000154,Gold Grains 154,Staples,Grains,Navya,363.63,551.80,180,1,Y
+2025/12/07 11:00:00,PRD000155,Gold Juice 155,Beverages,Juice,Prakriti,113.08,131.69,30,1,Y
+2025/12/07 12:00:00,PRD000156,Daily Biscuits 156,Snacks,Biscuits,Prakriti,359.89,534.39,90,1,Y
+2025/12/07 13:00:00,PRD000157,Classic Skin Care 157,Personal Care,Skin Care,Navya,310.20,486.11,90,1,Y
+2025/12/07 14:00:00,PRD000158,Fresh Detergent 158,Home Care,Detergent,Aarohan,131.62,160.11,365,250,Y
+2025/12/07 15:00:00,PRD000159,Daily Grains 159,Staples,Grains,Utsav,30.92,39.86,365,1,Y
+2025/12/07 16:00:00,PRD000160,Gold Juice 160,Beverages,Juice,Utsav,435.25,617.75,365,250,Y
+2025/12/07 17:00:00,PRD000161,Gold Biscuits 161,Snacks,Biscuits,Aarohan,360.31,510.14,540,1,Y
+2025/12/07 18:00:00,PRD000162,Fresh Skin Care 162,Personal Care,Skin Care,Prakriti,208.67,265.35,30,250,Y
+2025/12/07 19:00:00,PRD000163,Classic Detergent 163,Home Care,Detergent,Prakriti,410.42,560.81,365,500,Y
+2025/12/07 20:00:00,PRD000164,Daily Grains 164,Staples,Grains,Navya,208.62,285.35,180,500,Y
+2025/12/07 21:00:00,PRD000165,Daily Juice 165,Beverages,Juice,Prakriti,205.42,282.35,180,1,Y
+2025/12/07 22:00:00,PRD000166,Fresh Biscuits 166,Snacks,Biscuits,Prakriti,235.91,330.41,30,1,Y
+2025/12/07 23:00:00,PRD000167,Natural Skin Care 167,Personal Care,Skin Care,Aarohan,132.24,197.88,180,1,Y
+2025/12/08 00:00:00,PRD000168,Fresh Detergent 168,Home Care,Detergent,Navya,358.11,484.28,90,500,Y
+2025/12/08 01:00:00,PRD000169,Fresh Grains 169,Staples,Grains,Prakriti,453.84,537.87,90,1,Y
+2025/12/08 02:00:00,PRD000170,Gold Juice 170,Beverages,Juice,Aarohan,368.41,478.17,90,100,Y
+2025/12/08 03:00:00,PRD000171,Fresh Biscuits 171,Snacks,Biscuits,Utsav,403.59,570.41,365,1,N
+2025/12/08 04:00:00,PRD000172,Gold Skin Care 172,Personal Care,Skin Care,Utsav,199.22,292.03,180,500,Y
+2025/12/08 05:00:00,PRD000173,Fresh Detergent 173,Home Care,Detergent,Aarohan,347.55,423.11,365,500,Y
+2025/12/08 06:00:00,PRD000174,Gold Grains 174,Staples,Grains,Navya,164.63,255.55,30,1,Y
+2025/12/08 07:00:00,PRD000175,Gold Juice 175,Beverages,Juice,Sampoorna,72.26,111.46,365,1,Y
+2025/12/08 08:00:00,PRD000176,Fresh Biscuits 176,Snacks,Biscuits,Aarohan,215.72,327.33,540,250,Y
+2025/12/08 09:00:00,PRD000177,Daily Skin Care 177,Personal Care,Skin Care,Prakriti,63.69,92.74,180,250,Y
+2025/12/08 10:00:00,PRD000178,Classic Detergent 178,Home Care,Detergent,Aarohan,186.55,232.29,30,500,Y
+2025/12/08 11:00:00,PRD000179,Natural Grains 179,Staples,Grains,Navya,197.33,298.65,540,100,Y
+2025/12/08 12:00:00,PRD000180,Daily Juice 180,Beverages,Juice,Aarohan,376.28,587.76,540,250,Y
+2025/12/08 13:00:00,PRD000181,Natural Biscuits 181,Snacks,Biscuits,Utsav,227.84,324.87,180,500,Y
+2025/12/08 14:00:00,PRD000182,Fresh Skin Care 182,Personal Care,Skin Care,Prakriti,365.94,531.43,90,100,Y
+2025/12/08 15:00:00,PRD000183,Daily Detergent 183,Home Care,Detergent,Prakriti,147.63,213.62,365,1,Y
+2025/12/08 16:00:00,PRD000184,Natural Grains 184,Staples,Grains,Prakriti,451.07,642.95,90,1,Y
+2025/12/08 17:00:00,PRD000185,Fresh Juice 185,Beverages,Juice,Prakriti,397.57,611.09,30,1,Y
+2025/12/08 18:00:00,PRD000186,Gold Biscuits 186,Snacks,Biscuits,Navya,162.06,223.29,540,500,Y
+2025/12/08 19:00:00,PRD000187,Classic Skin Care 187,Personal Care,Skin Care,Aarohan,296.23,373.98,365,500,Y
+2025/12/08 20:00:00,PRD000188,Daily Detergent 188,Home Care,Detergent,Aarohan,75.14,114.18,30,1,Y
+2025/12/08 21:00:00,PRD000189,Gold Grains 189,Staples,Grains,Navya,232.40,345.14,540,1,Y
+2025/12/08 22:00:00,PRD000190,Classic Juice 190,Beverages,Juice,Navya,462.02,636.61,30,1,Y
+2025/12/08 23:00:00,PRD000191,Gold Biscuits 191,Snacks,Biscuits,Utsav,349.82,556.72,180,500,Y
+2025/12/09 00:00:00,PRD000192,Fresh Skin Care 192,Personal Care,Skin Care,Sampoorna,363.26,560.33,30,250,Y
+2025/12/09 01:00:00,PRD000193,Daily Detergent 193,Home Care,Detergent,Sampoorna,191.60,253.62,90,100,Y
+2025/12/09 02:00:00,PRD000194,Classic Grains 194,Staples,Grains,Prakriti,63.71,77.16,365,1,Y
+2025/12/09 03:00:00,PRD000195,Daily Juice 195,Beverages,Juice,Navya,23.03,33.33,540,1,Y
+2025/12/09 04:00:00,PRD000196,Gold Biscuits 196,Snacks,Biscuits,Utsav,104.40,122.62,180,250,Y
+2025/12/09 05:00:00,PRD000197,Gold Skin Care 197,Personal Care,Skin Care,Prakriti,412.09,496.09,365,250,Y
+2025/12/09 06:00:00,PRD000198,Natural Detergent 198,Home Care,Detergent,Utsav,382.37,522.45,540,1,Y
+2025/12/09 07:00:00,PRD000199,Natural Grains 199,Staples,Grains,Navya,410.89,608.69,30,1,Y
+2025/12/09 08:00:00,PRD000200,Daily Juice 200,Beverages,Juice,Aarohan,269.54,371.98,90,500,Y
+2025/12/09 09:00:00,PRD000201,Fresh Biscuits 201,Snacks,Biscuits,Navya,402.34,487.25,365,1,Y
+2025/12/09 10:00:00,PRD000202,Daily Skin Care 202,Personal Care,Skin Care,Navya,456.55,592.46,30,250,Y
+2025/12/09 11:00:00,PRD000203,Gold Detergent 203,Home Care,Detergent,Utsav,409.26,637.78,540,500,Y
+2025/12/09 12:00:00,PRD000204,Gold Grains 204,Staples,Grains,Utsav,88.91,115.50,540,250,Y
+2025/12/09 13:00:00,PRD000205,Gold Juice 205,Beverages,Juice,Sampoorna,44.96,70.73,180,100,Y
+2025/12/09 14:00:00,PRD000206,Gold Biscuits 206,Snacks,Biscuits,Aarohan,22.16,26.93,540,100,Y
+2025/12/09 15:00:00,PRD000207,Gold Skin Care 207,Personal Care,Skin Care,Prakriti,424.86,491.55,90,1,Y
+2025/12/09 16:00:00,PRD000208,Gold Detergent 208,Home Care,Detergent,Sampoorna,26.05,33.33,90,250,Y
+2025/12/09 17:00:00,PRD000209,Gold Grains 209,Staples,Grains,Aarohan,148.22,173.39,90,1,Y
+2025/12/09 18:00:00,PRD000210,Fresh Juice 210,Beverages,Juice,Sampoorna,77.48,112.46,30,250,Y
+2025/12/09 19:00:00,PRD000211,Natural Biscuits 211,Snacks,Biscuits,Navya,238.35,288.40,540,100,Y
+2025/12/09 20:00:00,PRD000212,Daily Skin Care 212,Personal Care,Skin Care,Utsav,350.98,504.93,30,100,Y
+2025/12/09 21:00:00,PRD000213,Daily Detergent 213,Home Care,Detergent,Prakriti,217.75,325.78,90,100,Y
+2025/12/09 22:00:00,PRD000214,Natural Grains 214,Staples,Grains,Sampoorna,414.20,513.52,30,500,Y
+2025/12/09 23:00:00,PRD000215,Daily Juice 215,Beverages,Juice,Navya,289.18,451.57,180,1,Y
+2025/12/10 00:00:00,PRD000216,Gold Biscuits 216,Snacks,Biscuits,Prakriti,82.34,111.06,90,1,Y
+2025/12/10 01:00:00,PRD000217,Classic Skin Care 217,Personal Care,Skin Care,Navya,452.24,548.81,180,500,Y
+2025/12/10 02:00:00,PRD000218,Daily Detergent 218,Home Care,Detergent,Utsav,310.66,414.55,90,500,Y
+2025/12/10 03:00:00,PRD000219,Daily Grains 219,Staples,Grains,Utsav,355.11,553.80,180,500,Y
+2025/12/10 04:00:00,PRD000220,Daily Juice 220,Beverages,Juice,Prakriti,135.10,194.26,365,1,Y
+2025/12/10 05:00:00,PRD000221,Natural Biscuits 221,Snacks,Biscuits,Prakriti,27.79,43.01,30,500,Y
+2025/12/10 06:00:00,PRD000222,Natural Skin Care 222,Personal Care,Skin Care,Aarohan,91.42,136.38,540,1,Y
+2025/12/10 07:00:00,PRD000223,Classic Detergent 223,Home Care,Detergent,Navya,37.00,50.04,30,250,Y
+2025/12/10 08:00:00,PRD000224,Natural Grains 224,Staples,Grains,Navya,30.15,40.67,90,500,Y
+2025/12/10 09:00:00,PRD000225,Gold Juice 225,Beverages,Juice,Navya,140.19,183.39,365,1,Y
+2025/12/10 10:00:00,PRD000226,Natural Biscuits 226,Snacks,Biscuits,Utsav,265.41,410.58,30,500,Y
+2025/12/10 11:00:00,PRD000227,Gold Skin Care 227,Personal Care,Skin Care,Utsav,33.77,49.62,365,1,Y
+2025/12/10 12:00:00,PRD000228,Daily Detergent 228,Home Care,Detergent,Prakriti,287.58,451.91,540,250,N
+2025/12/10 13:00:00,PRD000229,Natural Grains 229,Staples,Grains,Sampoorna,117.61,180.44,180,1,Y
+2025/12/10 14:00:00,PRD000230,Gold Juice 230,Beverages,Juice,Utsav,308.02,485.18,365,1,Y
+2025/12/10 15:00:00,PRD000231,Natural Biscuits 231,Snacks,Biscuits,Prakriti,121.19,192.20,30,1,Y
+2025/12/10 16:00:00,PRD000232,Classic Skin Care 232,Personal Care,Skin Care,Aarohan,235.91,308.19,365,100,Y
+2025/12/10 17:00:00,PRD000233,Classic Detergent 233,Home Care,Detergent,Utsav,245.40,373.97,30,100,Y
+2025/12/10 18:00:00,PRD000234,Fresh Grains 234,Staples,Grains,Navya,281.87,331.16,180,250,Y
+2025/12/10 19:00:00,PRD000235,Fresh Juice 235,Beverages,Juice,Aarohan,205.39,265.78,365,250,Y
+2025/12/10 20:00:00,PRD000236,Natural Biscuits 236,Snacks,Biscuits,Prakriti,462.97,700.27,30,500,Y
+2025/12/10 21:00:00,PRD000237,Gold Skin Care 237,Personal Care,Skin Care,Sampoorna,311.26,470.61,90,1,Y
+2025/12/10 22:00:00,PRD000238,Gold Detergent 238,Home Care,Detergent,Navya,371.45,478.05,180,250,Y
+2025/12/10 23:00:00,PRD000239,Natural Grains 239,Staples,Grains,Aarohan,422.88,654.26,365,100,Y
+2025/12/11 00:00:00,PRD000240,Classic Juice 240,Beverages,Juice,Navya,347.30,468.07,180,100,Y
+2025/12/11 01:00:00,PRD000241,Gold Biscuits 241,Snacks,Biscuits,Sampoorna,272.10,361.20,90,1,Y
+2025/12/11 02:00:00,PRD000242,Classic Skin Care 242,Personal Care,Skin Care,Utsav,39.22,59.36,30,250,Y
+2025/12/11 03:00:00,PRD000243,Fresh Detergent 243,Home Care,Detergent,Aarohan,131.36,204.60,90,250,Y
+2025/12/11 04:00:00,PRD000244,Natural Grains 244,Staples,Grains,Navya,407.39,630.54,90,1,Y
+2025/12/11 05:00:00,PRD000245,Classic Juice 245,Beverages,Juice,Navya,248.84,323.88,540,100,Y
+2025/12/11 06:00:00,PRD000246,Natural Biscuits 246,Snacks,Biscuits,Prakriti,73.59,93.27,365,1,Y
+2025/12/11 07:00:00,PRD000247,Fresh Skin Care 247,Personal Care,Skin Care,Aarohan,164.43,250.03,540,1,Y
+2025/12/11 08:00:00,PRD000248,Gold Detergent 248,Home Care,Detergent,Aarohan,376.06,534.04,365,500,Y
+2025/12/11 09:00:00,PRD000249,Gold Grains 249,Staples,Grains,Aarohan,24.27,38.47,365,1,Y
+2025/12/11 10:00:00,PRD000250,Fresh Juice 250,Beverages,Juice,Utsav,44.15,60.33,365,1,Y
+2025/12/11 11:00:00,PRD000251,Daily Biscuits 251,Snacks,Biscuits,Sampoorna,105.45,126.28,90,500,Y
+2025/12/11 12:00:00,PRD000252,Fresh Skin Care 252,Personal Care,Skin Care,Navya,375.09,480.96,90,100,Y
+2025/12/11 13:00:00,PRD000253,Classic Detergent 253,Home Care,Detergent,Prakriti,256.56,382.79,180,100,Y
+2025/12/11 14:00:00,PRD000254,Natural Grains 254,Staples,Grains,Prakriti,176.64,277.57,540,500,Y
+2025/12/11 15:00:00,PRD000255,Classic Juice 255,Beverages,Juice,Sampoorna,148.06,182.75,30,1,Y
+2025/12/11 16:00:00,PRD000256,Classic Biscuits 256,Snacks,Biscuits,Aarohan,24.98,35.53,90,500,Y
+2025/12/11 17:00:00,PRD000257,Fresh Skin Care 257,Personal Care,Skin Care,Utsav,287.07,375.56,540,500,Y
+2025/12/11 18:00:00,PRD000258,Daily Detergent 258,Home Care,Detergent,Aarohan,270.94,354.69,540,1,Y
+2025/12/11 19:00:00,PRD000259,Classic Grains 259,Staples,Grains,Sampoorna,391.43,532.70,540,1,Y
+2025/12/11 20:00:00,PRD000260,Gold Juice 260,Beverages,Juice,Navya,165.03,218.02,365,100,Y
+2025/12/11 21:00:00,PRD000261,Daily Biscuits 261,Snacks,Biscuits,Utsav,78.95,96.16,180,1,Y
+2025/12/11 22:00:00,PRD000262,Classic Skin Care 262,Personal Care,Skin Care,Navya,395.02,540.67,540,100,Y
+2025/12/11 23:00:00,PRD000263,Gold Detergent 263,Home Care,Detergent,Utsav,464.19,655.47,180,250,Y
+2025/12/12 00:00:00,PRD000264,Daily Grains 264,Staples,Grains,Navya,255.17,384.17,180,500,Y
+2025/12/12 01:00:00,PRD000265,Natural Juice 265,Beverages,Juice,Navya,467.55,660.04,365,1,Y
+2025/12/12 02:00:00,PRD000266,Gold Biscuits 266,Snacks,Biscuits,Sampoorna,194.33,303.01,30,500,Y
+2025/12/12 03:00:00,PRD000267,Fresh Skin Care 267,Personal Care,Skin Care,Utsav,343.44,442.85,365,500,Y
+2025/12/12 04:00:00,PRD000268,Fresh Detergent 268,Home Care,Detergent,Sampoorna,416.63,548.38,90,500,Y
+2025/12/12 05:00:00,PRD000269,Natural Grains 269,Staples,Grains,Utsav,219.00,327.71,90,1,Y
+2025/12/12 06:00:00,PRD000270,Daily Juice 270,Beverages,Juice,Utsav,460.72,660.51,90,100,Y
+2025/12/12 07:00:00,PRD000271,Daily Biscuits 271,Snacks,Biscuits,Sampoorna,278.73,384.16,30,1,Y
+2025/12/12 08:00:00,PRD000272,Daily Skin Care 272,Personal Care,Skin Care,Prakriti,370.20,451.74,540,1,Y
+2025/12/12 09:00:00,PRD000273,Daily Detergent 273,Home Care,Detergent,Navya,371.78,593.93,90,250,Y
+2025/12/12 10:00:00,PRD000274,Gold Grains 274,Staples,Grains,Navya,334.03,487.81,30,1,Y
+2025/12/12 11:00:00,PRD000275,Gold Juice 275,Beverages,Juice,Utsav,106.42,133.61,540,1,Y
+2025/12/12 12:00:00,PRD000276,Gold Biscuits 276,Snacks,Biscuits,Utsav,188.00,248.04,180,1,Y
+2025/12/12 13:00:00,PRD000277,Fresh Skin Care 277,Personal Care,Skin Care,Aarohan,274.08,329.64,90,100,Y
+2025/12/12 14:00:00,PRD000278,Classic Detergent 278,Home Care,Detergent,Utsav,379.57,475.24,540,100,Y
+2025/12/12 15:00:00,PRD000279,Fresh Grains 279,Staples,Grains,Aarohan,109.32,136.45,90,100,Y
+2025/12/12 16:00:00,PRD000280,Daily Juice 280,Beverages,Juice,Navya,213.99,306.35,180,1,Y
+2025/12/12 17:00:00,PRD000281,Classic Biscuits 281,Snacks,Biscuits,Aarohan,67.19,105.92,365,1,Y
+2025/12/12 18:00:00,PRD000282,Fresh Skin Care 282,Personal Care,Skin Care,Navya,369.23,441.50,30,250,Y
+2025/12/12 19:00:00,PRD000283,Fresh Detergent 283,Home Care,Detergent,Navya,399.80,602.95,365,1,Y
+2025/12/12 20:00:00,PRD000284,Fresh Grains 284,Staples,Grains,Navya,401.04,621.59,365,1,Y
+2025/12/12 21:00:00,PRD000285,Fresh Juice 285,Beverages,Juice,Sampoorna,228.21,287.39,540,100,N
+2025/12/12 22:00:00,PRD000286,Daily Biscuits 286,Snacks,Biscuits,Sampoorna,296.91,363.78,540,250,Y
+2025/12/12 23:00:00,PRD000287,Fresh Skin Care 287,Personal Care,Skin Care,Aarohan,388.29,593.67,90,100,Y
+2025/12/13 00:00:00,PRD000288,Gold Detergent 288,Home Care,Detergent,Prakriti,454.27,566.61,180,500,Y
+2025/12/13 01:00:00,PRD000289,Daily Grains 289,Staples,Grains,Prakriti,54.16,67.15,540,100,Y
+2025/12/13 02:00:00,PRD000290,Classic Juice 290,Beverages,Juice,Navya,209.41,258.58,365,100,Y
+2025/12/13 03:00:00,PRD000291,Classic Biscuits 291,Snacks,Biscuits,Utsav,124.01,188.09,180,1,Y
+2025/12/13 04:00:00,PRD000292,Fresh Skin Care 292,Personal Care,Skin Care,Prakriti,211.28,309.24,30,500,Y
+2025/12/13 05:00:00,PRD000293,Natural Detergent 293,Home Care,Detergent,Aarohan,82.74,124.33,30,1,Y
+2025/12/13 06:00:00,PRD000294,Daily Grains 294,Staples,Grains,Prakriti,280.13,324.34,180,1,Y
+2025/12/13 07:00:00,PRD000295,Natural Juice 295,Beverages,Juice,Sampoorna,195.44,259.56,90,500,Y
+2025/12/13 08:00:00,PRD000296,Natural Biscuits 296,Snacks,Biscuits,Utsav,138.10,200.29,365,250,Y
+2025/12/13 09:00:00,PRD000297,Fresh Skin Care 297,Personal Care,Skin Care,Prakriti,34.55,52.69,90,500,Y
+2025/12/13 10:00:00,PRD000298,Gold Detergent 298,Home Care,Detergent,Prakriti,62.03,87.95,180,100,Y
+2025/12/13 11:00:00,PRD000299,Natural Grains 299,Staples,Grains,Prakriti,209.22,281.32,365,1,Y
+2025/12/13 12:00:00,PRD000300,Classic Juice 300,Beverages,Juice,Prakriti,247.74,287.51,90,100,Y
+2025/12/13 13:00:00,PRD000301,Gold Biscuits 301,Snacks,Biscuits,Navya,184.04,276.89,30,500,Y
+2025/12/13 14:00:00,PRD000302,Classic Skin Care 302,Personal Care,Skin Care,Navya,360.97,502.93,365,500,Y
+2025/12/13 15:00:00,PRD000303,Gold Detergent 303,Home Care,Detergent,Utsav,387.81,597.91,30,1,Y
+2025/12/13 16:00:00,PRD000304,Classic Grains 304,Staples,Grains,Navya,86.57,104.18,365,1,Y
+2025/12/13 17:00:00,PRD000305,Fresh Juice 305,Beverages,Juice,Sampoorna,383.09,581.39,540,500,Y
+2025/12/13 18:00:00,PRD000306,Gold Biscuits 306,Snacks,Biscuits,Sampoorna,198.01,251.75,540,1,Y
+2025/12/13 19:00:00,PRD000307,Gold Skin Care 307,Personal Care,Skin Care,Aarohan,164.97,224.32,30,1,Y
+2025/12/13 20:00:00,PRD000308,Daily Detergent 308,Home Care,Detergent,Prakriti,157.01,203.98,180,100,Y
+2025/12/13 21:00:00,PRD000309,Daily Grains 309,Staples,Grains,Utsav,72.62,99.67,180,1,Y
+2025/12/13 22:00:00,PRD000310,Classic Juice 310,Beverages,Juice,Prakriti,354.26,444.15,30,1,Y
+2025/12/13 23:00:00,PRD000311,Daily Biscuits 311,Snacks,Biscuits,Prakriti,59.01,89.16,90,500,Y
+2025/12/14 00:00:00,PRD000312,Gold Skin Care 312,Personal Care,Skin Care,Sampoorna,182.43,260.61,365,1,Y
+2025/12/14 01:00:00,PRD000313,Daily Detergent 313,Home Care,Detergent,Aarohan,461.23,559.43,30,1,Y
+2025/12/14 02:00:00,PRD000314,Daily Grains 314,Staples,Grains,Prakriti,155.89,195.62,180,100,Y
+2025/12/14 03:00:00,PRD000315,Gold Juice 315,Beverages,Juice,Navya,190.38,265.19,90,1,Y
+2025/12/14 04:00:00,PRD000316,Classic Biscuits 316,Snacks,Biscuits,Navya,201.06,256.01,30,1,Y
+2025/12/14 05:00:00,PRD000317,Natural Skin Care 317,Personal Care,Skin Care,Sampoorna,137.22,188.52,365,1,Y
+2025/12/14 06:00:00,PRD000318,Daily Detergent 318,Home Care,Detergent,Utsav,330.61,409.19,365,500,Y
+2025/12/14 07:00:00,PRD000319,Fresh Grains 319,Staples,Grains,Utsav,196.26,283.32,365,100,Y
+2025/12/14 08:00:00,PRD000320,Classic Juice 320,Beverages,Juice,Prakriti,460.23,602.12,30,100,Y
+2025/12/14 09:00:00,PRD000321,Fresh Biscuits 321,Snacks,Biscuits,Prakriti,336.22,410.63,540,1,Y
+2025/12/14 10:00:00,PRD000322,Daily Skin Care 322,Personal Care,Skin Care,Utsav,422.95,600.98,30,100,Y
+2025/12/14 11:00:00,PRD000323,Classic Detergent 323,Home Care,Detergent,Prakriti,312.16,403.30,365,250,Y
+2025/12/14 12:00:00,PRD000324,Gold Grains 324,Staples,Grains,Sampoorna,189.69,236.67,90,1,Y
+2025/12/14 13:00:00,PRD000325,Fresh Juice 325,Beverages,Juice,Utsav,120.14,158.77,180,1,Y
+2025/12/14 14:00:00,PRD000326,Fresh Biscuits 326,Snacks,Biscuits,Navya,302.15,408.22,30,500,Y
+2025/12/14 15:00:00,PRD000327,Natural Skin Care 327,Personal Care,Skin Care,Utsav,78.59,123.52,90,250,Y
+2025/12/14 16:00:00,PRD000328,Classic Detergent 328,Home Care,Detergent,Navya,450.60,535.40,180,100,Y
+2025/12/14 17:00:00,PRD000329,Natural Grains 329,Staples,Grains,Navya,351.03,489.67,90,1,Y
+2025/12/14 18:00:00,PRD000330,Daily Juice 330,Beverages,Juice,Prakriti,197.64,311.30,90,100,Y
+2025/12/14 19:00:00,PRD000331,Daily Biscuits 331,Snacks,Biscuits,Prakriti,452.34,527.92,180,100,Y
+2025/12/14 20:00:00,PRD000332,Fresh Skin Care 332,Personal Care,Skin Care,Prakriti,133.25,195.54,90,1,Y
+2025/12/14 21:00:00,PRD000333,Daily Detergent 333,Home Care,Detergent,Utsav,264.66,406.77,90,500,Y
+2025/12/14 22:00:00,PRD000334,Natural Grains 334,Staples,Grains,Utsav,61.76,89.99,30,250,Y
+2025/12/14 23:00:00,PRD000335,Classic Juice 335,Beverages,Juice,Utsav,294.21,365.21,90,1,Y
+2025/12/15 00:00:00,PRD000336,Classic Biscuits 336,Snacks,Biscuits,Prakriti,342.39,504.89,180,1,Y
+2025/12/15 01:00:00,PRD000337,Fresh Skin Care 337,Personal Care,Skin Care,Navya,371.75,552.66,30,1,Y
+2025/12/15 02:00:00,PRD000338,Natural Detergent 338,Home Care,Detergent,Sampoorna,401.00,562.35,180,1,Y
+2025/12/15 03:00:00,PRD000339,Natural Grains 339,Staples,Grains,Navya,102.71,130.98,180,100,Y
+2025/12/15 04:00:00,PRD000340,Classic Juice 340,Beverages,Juice,Utsav,255.21,404.51,90,1,Y
+2025/12/15 05:00:00,PRD000341,Daily Biscuits 341,Snacks,Biscuits,Utsav,289.54,412.95,90,250,Y
+2025/12/15 06:00:00,PRD000342,Fresh Skin Care 342,Personal Care,Skin Care,Aarohan,184.94,291.71,180,250,N
+2025/12/15 07:00:00,PRD000343,Fresh Detergent 343,Home Care,Detergent,Utsav,143.57,208.20,90,500,Y
+2025/12/15 08:00:00,PRD000344,Classic Grains 344,Staples,Grains,Prakriti,442.94,595.40,540,250,Y
+2025/12/15 09:00:00,PRD000345,Classic Juice 345,Beverages,Juice,Prakriti,163.41,226.68,540,100,Y
+2025/12/15 10:00:00,PRD000346,Gold Biscuits 346,Snacks,Biscuits,Prakriti,201.00,259.71,30,1,Y
+2025/12/15 11:00:00,PRD000347,Fresh Skin Care 347,Personal Care,Skin Care,Sampoorna,267.13,342.71,180,500,Y
+2025/12/15 12:00:00,PRD000348,Natural Detergent 348,Home Care,Detergent,Aarohan,114.47,155.68,540,100,Y
+2025/12/15 13:00:00,PRD000349,Classic Grains 349,Staples,Grains,Utsav,213.47,300.55,90,1,Y
+2025/12/15 14:00:00,PRD000350,Classic Juice 350,Beverages,Juice,Utsav,65.74,99.12,365,500,Y
+2025/12/15 15:00:00,PRD000351,Gold Biscuits 351,Snacks,Biscuits,Navya,20.09,23.39,365,1,Y
+2025/12/15 16:00:00,PRD000352,Natural Skin Care 352,Personal Care,Skin Care,Navya,351.05,483.06,365,1,Y
+2025/12/15 17:00:00,PRD000353,Gold Detergent 353,Home Care,Detergent,Aarohan,252.02,395.85,90,1,Y
+2025/12/15 18:00:00,PRD000354,Gold Grains 354,Staples,Grains,Navya,377.93,487.43,540,1,Y
+2025/12/15 19:00:00,PRD000355,Natural Juice 355,Beverages,Juice,Sampoorna,111.04,167.93,90,500,Y
+2025/12/15 20:00:00,PRD000356,Daily Biscuits 356,Snacks,Biscuits,Aarohan,249.96,361.45,30,250,Y
+2025/12/15 21:00:00,PRD000357,Natural Skin Care 357,Personal Care,Skin Care,Aarohan,436.78,548.20,30,1,Y
+2025/12/15 22:00:00,PRD000358,Fresh Detergent 358,Home Care,Detergent,Aarohan,74.74,99.72,30,250,Y
+2025/12/15 23:00:00,PRD000359,Fresh Grains 359,Staples,Grains,Sampoorna,139.78,203.42,90,500,Y
+2025/12/16 00:00:00,PRD000360,Gold Juice 360,Beverages,Juice,Utsav,213.28,298.50,365,250,Y
+2025/12/16 01:00:00,PRD000361,Daily Biscuits 361,Snacks,Biscuits,Prakriti,346.96,481.50,540,500,Y
+2025/12/16 02:00:00,PRD000362,Natural Skin Care 362,Personal Care,Skin Care,Navya,176.55,214.60,540,1,Y
+2025/12/16 03:00:00,PRD000363,Gold Detergent 363,Home Care,Detergent,Sampoorna,28.09,32.61,30,1,Y
+2025/12/16 04:00:00,PRD000364,Gold Grains 364,Staples,Grains,Prakriti,85.32,121.17,540,100,Y
+2025/12/16 05:00:00,PRD000365,Natural Juice 365,Beverages,Juice,Utsav,123.54,179.64,90,500,Y
+2025/12/16 06:00:00,PRD000366,Fresh Biscuits 366,Snacks,Biscuits,Aarohan,411.64,586.21,90,100,Y
+2025/12/16 07:00:00,PRD000367,Fresh Skin Care 367,Personal Care,Skin Care,Prakriti,314.84,438.17,30,500,Y
+2025/12/16 08:00:00,PRD000368,Natural Detergent 368,Home Care,Detergent,Navya,349.10,428.71,365,1,Y
+2025/12/16 09:00:00,PRD000369,Daily Grains 369,Staples,Grains,Sampoorna,285.14,373.97,365,1,Y
+2025/12/16 10:00:00,PRD000370,Gold Juice 370,Beverages,Juice,Aarohan,333.33,443.82,365,1,Y
+2025/12/16 11:00:00,PRD000371,Daily Biscuits 371,Snacks,Biscuits,Aarohan,303.25,397.66,30,250,Y
+2025/12/16 12:00:00,PRD000372,Gold Skin Care 372,Personal Care,Skin Care,Utsav,46.35,64.81,540,1,Y
+2025/12/16 13:00:00,PRD000373,Fresh Detergent 373,Home Care,Detergent,Navya,344.67,408.85,180,250,Y
+2025/12/16 14:00:00,PRD000374,Natural Grains 374,Staples,Grains,Aarohan,410.02,499.82,90,1,Y
+2025/12/16 15:00:00,PRD000375,Classic Juice 375,Beverages,Juice,Utsav,453.92,677.07,90,500,Y
+2025/12/16 16:00:00,PRD000376,Classic Biscuits 376,Snacks,Biscuits,Navya,68.33,90.09,180,1,Y
+2025/12/16 17:00:00,PRD000377,Gold Skin Care 377,Personal Care,Skin Care,Aarohan,52.27,67.56,365,1,Y
+2025/12/16 18:00:00,PRD000378,Fresh Detergent 378,Home Care,Detergent,Utsav,248.11,303.59,365,1,Y
+2025/12/16 19:00:00,PRD000379,Classic Grains 379,Staples,Grains,Navya,194.84,256.46,30,500,Y
+2025/12/16 20:00:00,PRD000380,Gold Juice 380,Beverages,Juice,Aarohan,203.83,272.24,30,100,Y
+2025/12/16 21:00:00,PRD000381,Daily Biscuits 381,Snacks,Biscuits,Sampoorna,465.64,573.24,180,500,Y
+2025/12/16 22:00:00,PRD000382,Fresh Skin Care 382,Personal Care,Skin Care,Sampoorna,264.61,370.40,365,100,Y
+2025/12/16 23:00:00,PRD000383,Natural Detergent 383,Home Care,Detergent,Aarohan,130.38,194.68,90,500,Y
+2025/12/17 00:00:00,PRD000384,Daily Grains 384,Staples,Grains,Prakriti,446.20,629.19,180,1,Y
+2025/12/17 01:00:00,PRD000385,Fresh Juice 385,Beverages,Juice,Aarohan,439.85,598.42,540,1,Y
+2025/12/17 02:00:00,PRD000386,Gold Biscuits 386,Snacks,Biscuits,Sampoorna,241.43,367.47,180,1,Y
+2025/12/17 03:00:00,PRD000387,Gold Skin Care 387,Personal Care,Skin Care,Aarohan,59.46,73.33,540,250,Y
+2025/12/17 04:00:00,PRD000388,Classic Detergent 388,Home Care,Detergent,Navya,256.59,408.23,180,500,Y
+2025/12/17 05:00:00,PRD000389,Natural Grains 389,Staples,Grains,Prakriti,451.35,572.42,365,100,Y
+2025/12/17 06:00:00,PRD000390,Gold Juice 390,Beverages,Juice,Utsav,315.44,433.21,90,1,Y
+2025/12/17 07:00:00,PRD000391,Gold Biscuits 391,Snacks,Biscuits,Aarohan,217.27,327.53,30,1,Y
+2025/12/17 08:00:00,PRD000392,Fresh Skin Care 392,Personal Care,Skin Care,Sampoorna,197.40,275.51,180,250,Y
+2025/12/17 09:00:00,PRD000393,Natural Detergent 393,Home Care,Detergent,Aarohan,245.55,282.83,365,500,Y
+2025/12/17 10:00:00,PRD000394,Natural Grains 394,Staples,Grains,Aarohan,230.84,349.99,365,1,Y
+2025/12/17 11:00:00,PRD000395,Fresh Juice 395,Beverages,Juice,Aarohan,235.48,338.92,180,1,Y
+2025/12/17 12:00:00,PRD000396,Daily Biscuits 396,Snacks,Biscuits,Prakriti,333.19,476.94,540,1,Y
+2025/12/17 13:00:00,PRD000397,Gold Skin Care 397,Personal Care,Skin Care,Utsav,393.17,605.62,180,1,Y
+2025/12/17 14:00:00,PRD000398,Classic Detergent 398,Home Care,Detergent,Aarohan,183.24,213.42,365,1,Y
+2025/12/17 15:00:00,PRD000399,Daily Grains 399,Staples,Grains,Prakriti,362.40,448.56,30,250,N
+2025/12/17 16:00:00,PRD000400,Gold Juice 400,Beverages,Juice,Prakriti,227.87,297.28,90,1,Y
+2025/12/17 17:00:00,PRD000401,Gold Biscuits 401,Snacks,Biscuits,Utsav,93.58,140.31,365,500,Y
+2025/12/17 18:00:00,PRD000402,Natural Skin Care 402,Personal Care,Skin Care,Aarohan,268.29,417.99,180,1,Y
+2025/12/17 19:00:00,PRD000403,Daily Detergent 403,Home Care,Detergent,Utsav,43.58,64.30,30,500,Y
+2025/12/17 20:00:00,PRD000404,Gold Grains 404,Staples,Grains,Prakriti,250.32,294.53,540,1,Y
+2025/12/17 21:00:00,PRD000405,Fresh Juice 405,Beverages,Juice,Utsav,259.48,305.96,30,100,Y
+2025/12/17 22:00:00,PRD000406,Daily Biscuits 406,Snacks,Biscuits,Prakriti,201.12,285.88,90,1,Y
+2025/12/17 23:00:00,PRD000407,Fresh Skin Care 407,Personal Care,Skin Care,Sampoorna,105.89,150.24,540,1,Y
+2025/12/18 00:00:00,PRD000408,Daily Detergent 408,Home Care,Detergent,Sampoorna,246.58,313.73,540,1,Y
+2025/12/18 01:00:00,PRD000409,Fresh Grains 409,Staples,Grains,Prakriti,312.57,399.72,90,1,Y
+2025/12/18 02:00:00,PRD000410,Gold Juice 410,Beverages,Juice,Navya,359.47,554.58,180,500,Y
+2025/12/18 03:00:00,PRD000411,Natural Biscuits 411,Snacks,Biscuits,Navya,257.25,379.50,180,500,Y
+2025/12/18 04:00:00,PRD000412,Classic Skin Care 412,Personal Care,Skin Care,Aarohan,231.67,370.52,180,100,Y
+2025/12/18 05:00:00,PRD000413,Fresh Detergent 413,Home Care,Detergent,Prakriti,370.40,455.87,180,1,Y
+2025/12/18 06:00:00,PRD000414,Daily Grains 414,Staples,Grains,Sampoorna,282.05,333.48,90,250,Y
+2025/12/18 07:00:00,PRD000415,Fresh Juice 415,Beverages,Juice,Utsav,122.90,180.35,180,500,Y
+2025/12/18 08:00:00,PRD000416,Gold Biscuits 416,Snacks,Biscuits,Navya,135.54,198.36,540,250,Y
+2025/12/18 09:00:00,PRD000417,Fresh Skin Care 417,Personal Care,Skin Care,Aarohan,446.98,539.07,90,250,Y
+2025/12/18 10:00:00,PRD000418,Daily Detergent 418,Home Care,Detergent,Aarohan,214.80,342.28,365,500,Y
+2025/12/18 11:00:00,PRD000419,Daily Grains 419,Staples,Grains,Aarohan,71.67,84.82,365,500,Y
+2025/12/18 12:00:00,PRD000420,Natural Juice 420,Beverages,Juice,Sampoorna,283.83,452.40,365,100,Y
+2025/12/18 13:00:00,PRD000421,Classic Biscuits 421,Snacks,Biscuits,Utsav,386.20,541.00,90,1,Y
+2025/12/18 14:00:00,PRD000422,Gold Skin Care 422,Personal Care,Skin Care,Aarohan,452.50,701.92,30,500,Y
+2025/12/18 15:00:00,PRD000423,Fresh Detergent 423,Home Care,Detergent,Navya,262.13,390.03,90,250,Y
+2025/12/18 16:00:00,PRD000424,Fresh Grains 424,Staples,Grains,Prakriti,250.08,309.11,540,100,Y
+2025/12/18 17:00:00,PRD000425,Gold Juice 425,Beverages,Juice,Utsav,216.21,301.38,365,500,Y
+2025/12/18 18:00:00,PRD000426,Gold Biscuits 426,Snacks,Biscuits,Prakriti,258.76,380.51,365,100,Y
+2025/12/18 19:00:00,PRD000427,Fresh Skin Care 427,Personal Care,Skin Care,Aarohan,298.47,407.04,180,1,Y
+2025/12/18 20:00:00,PRD000428,Gold Detergent 428,Home Care,Detergent,Prakriti,394.37,525.59,365,1,Y
+2025/12/18 21:00:00,PRD000429,Fresh Grains 429,Staples,Grains,Utsav,269.28,313.69,180,100,Y
+2025/12/18 22:00:00,PRD000430,Natural Juice 430,Beverages,Juice,Prakriti,225.64,356.61,30,1,Y
+2025/12/18 23:00:00,PRD000431,Daily Biscuits 431,Snacks,Biscuits,Aarohan,442.83,547.50,30,1,Y
+2025/12/19 00:00:00,PRD000432,Natural Skin Care 432,Personal Care,Skin Care,Prakriti,105.83,149.85,90,1,Y
+2025/12/19 01:00:00,PRD000433,Natural Detergent 433,Home Care,Detergent,Aarohan,305.64,381.32,90,250,Y
+2025/12/19 02:00:00,PRD000434,Daily Grains 434,Staples,Grains,Navya,314.64,465.58,180,1,Y
+2025/12/19 03:00:00,PRD000435,Gold Juice 435,Beverages,Juice,Utsav,82.32,107.94,30,1,Y
+2025/12/19 04:00:00,PRD000436,Classic Biscuits 436,Snacks,Biscuits,Utsav,322.45,513.78,365,500,Y
+2025/12/19 05:00:00,PRD000437,Gold Skin Care 437,Personal Care,Skin Care,Utsav,36.34,43.91,365,1,Y
+2025/12/19 06:00:00,PRD000438,Gold Detergent 438,Home Care,Detergent,Navya,79.97,106.27,180,1,Y
+2025/12/19 07:00:00,PRD000439,Fresh Grains 439,Staples,Grains,Aarohan,93.69,125.72,365,250,Y
+2025/12/19 08:00:00,PRD000440,Daily Juice 440,Beverages,Juice,Sampoorna,87.74,109.40,90,100,Y
+2025/12/19 09:00:00,PRD000441,Classic Biscuits 441,Snacks,Biscuits,Navya,175.49,236.63,30,1,Y
+2025/12/19 10:00:00,PRD000442,Fresh Skin Care 442,Personal Care,Skin Care,Navya,347.55,455.19,365,500,Y
+2025/12/19 11:00:00,PRD000443,Natural Detergent 443,Home Care,Detergent,Aarohan,422.53,579.20,540,250,Y
+2025/12/19 12:00:00,PRD000444,Fresh Grains 444,Staples,Grains,Prakriti,287.47,338.20,540,1,Y
+2025/12/19 13:00:00,PRD000445,Fresh Juice 445,Beverages,Juice,Navya,264.88,388.78,30,1,Y
+2025/12/19 14:00:00,PRD000446,Gold Biscuits 446,Snacks,Biscuits,Utsav,190.41,303.22,30,1,Y
+2025/12/19 15:00:00,PRD000447,Daily Skin Care 447,Personal Care,Skin Care,Navya,345.26,413.79,365,500,Y
+2025/12/19 16:00:00,PRD000448,Daily Detergent 448,Home Care,Detergent,Utsav,38.45,57.57,365,100,Y
+2025/12/19 17:00:00,PRD000449,Gold Grains 449,Staples,Grains,Sampoorna,435.77,622.22,180,100,Y
+2025/12/19 18:00:00,PRD000450,Gold Juice 450,Beverages,Juice,Navya,40.49,52.65,540,250,Y
+2025/12/19 19:00:00,PRD000451,Gold Biscuits 451,Snacks,Biscuits,Prakriti,54.23,83.79,180,250,Y
+2025/12/19 20:00:00,PRD000452,Classic Skin Care 452,Personal Care,Skin Care,Prakriti,446.74,533.17,30,100,Y
+2025/12/19 21:00:00,PRD000453,Gold Detergent 453,Home Care,Detergent,Utsav,154.89,242.38,30,1,Y
+2025/12/19 22:00:00,PRD000454,Classic Grains 454,Staples,Grains,Sampoorna,463.73,670.20,540,1,Y
+2025/12/19 23:00:00,PRD000455,Daily Juice 455,Beverages,Juice,Sampoorna,108.66,138.29,90,1,Y
+2025/12/20 00:00:00,PRD000456,Daily Biscuits 456,Snacks,Biscuits,Prakriti,83.93,120.88,365,1,N
+2025/12/20 01:00:00,PRD000457,Gold Skin Care 457,Personal Care,Skin Care,Sampoorna,67.01,89.10,540,1,Y
+2025/12/20 02:00:00,PRD000458,Natural Detergent 458,Home Care,Detergent,Navya,348.14,438.16,30,1,Y
+2025/12/20 03:00:00,PRD000459,Classic Grains 459,Staples,Grains,Utsav,337.38,462.35,90,100,Y
+2025/12/20 04:00:00,PRD000460,Natural Juice 460,Beverages,Juice,Prakriti,360.60,548.01,30,1,Y
+2025/12/20 05:00:00,PRD000461,Fresh Biscuits 461,Snacks,Biscuits,Utsav,399.94,594.69,30,500,Y
+2025/12/20 06:00:00,PRD000462,Natural Skin Care 462,Personal Care,Skin Care,Navya,265.78,318.09,540,100,Y
+2025/12/20 07:00:00,PRD000463,Daily Detergent 463,Home Care,Detergent,Navya,288.22,422.48,30,1,Y
+2025/12/20 08:00:00,PRD000464,Fresh Grains 464,Staples,Grains,Aarohan,407.52,598.23,365,250,Y
+2025/12/20 09:00:00,PRD000465,Daily Juice 465,Beverages,Juice,Sampoorna,233.09,305.93,365,1,Y
+2025/12/20 10:00:00,PRD000466,Fresh Biscuits 466,Snacks,Biscuits,Navya,228.83,276.38,365,1,Y
+2025/12/20 11:00:00,PRD000467,Classic Skin Care 467,Personal Care,Skin Care,Sampoorna,211.43,251.84,90,250,Y
+2025/12/20 12:00:00,PRD000468,Classic Detergent 468,Home Care,Detergent,Prakriti,330.04,451.44,365,100,Y
+2025/12/20 13:00:00,PRD000469,Gold Grains 469,Staples,Grains,Navya,376.73,487.38,90,500,Y
+2025/12/20 14:00:00,PRD000470,Natural Juice 470,Beverages,Juice,Sampoorna,144.88,179.78,365,250,Y
+2025/12/20 15:00:00,PRD000471,Daily Biscuits 471,Snacks,Biscuits,Aarohan,409.46,479.42,90,250,Y
+2025/12/20 16:00:00,PRD000472,Fresh Skin Care 472,Personal Care,Skin Care,Prakriti,180.57,237.42,90,1,Y
+2025/12/20 17:00:00,PRD000473,Natural Detergent 473,Home Care,Detergent,Navya,448.13,578.56,540,500,Y
+2025/12/20 18:00:00,PRD000474,Natural Grains 474,Staples,Grains,Utsav,448.25,612.89,30,500,Y
+2025/12/20 19:00:00,PRD000475,Natural Juice 475,Beverages,Juice,Sampoorna,453.38,636.96,30,1,Y
+2025/12/20 20:00:00,PRD000476,Daily Biscuits 476,Snacks,Biscuits,Aarohan,315.88,403.18,540,1,Y
+2025/12/20 21:00:00,PRD000477,Classic Skin Care 477,Personal Care,Skin Care,Prakriti,224.83,297.09,540,1,Y
+2025/12/20 22:00:00,PRD000478,Natural Detergent 478,Home Care,Detergent,Sampoorna,100.05,156.82,365,100,Y
+2025/12/20 23:00:00,PRD000479,Natural Grains 479,Staples,Grains,Navya,76.64,101.65,180,500,Y
+2025/12/21 00:00:00,PRD000480,Daily Juice 480,Beverages,Juice,Sampoorna,320.61,467.17,180,500,Y
+2025/12/21 01:00:00,PRD000481,Gold Biscuits 481,Snacks,Biscuits,Sampoorna,274.68,366.17,180,500,Y
+2025/12/21 02:00:00,PRD000482,Classic Skin Care 482,Personal Care,Skin Care,Sampoorna,133.07,157.94,90,1,Y
+2025/12/21 03:00:00,PRD000483,Classic Detergent 483,Home Care,Detergent,Navya,84.17,118.53,90,250,Y
+2025/12/21 04:00:00,PRD000484,Classic Grains 484,Staples,Grains,Navya,298.18,426.76,540,250,Y
+2025/12/21 05:00:00,PRD000485,Fresh Juice 485,Beverages,Juice,Aarohan,250.05,372.60,365,250,Y
+2025/12/21 06:00:00,PRD000486,Classic Biscuits 486,Snacks,Biscuits,Sampoorna,386.11,461.01,365,100,Y
+2025/12/21 07:00:00,PRD000487,Daily Skin Care 487,Personal Care,Skin Care,Navya,157.83,184.86,30,500,Y
+2025/12/21 08:00:00,PRD000488,Classic Detergent 488,Home Care,Detergent,Sampoorna,416.57,642.27,180,1,Y
+2025/12/21 09:00:00,PRD000489,Daily Grains 489,Staples,Grains,Prakriti,181.55,245.54,90,1,Y
+2025/12/21 10:00:00,PRD000490,Daily Juice 490,Beverages,Juice,Utsav,273.28,381.43,90,1,Y
+2025/12/21 11:00:00,PRD000491,Classic Biscuits 491,Snacks,Biscuits,Aarohan,160.63,209.89,365,1,Y
+2025/12/21 12:00:00,PRD000492,Classic Skin Care 492,Personal Care,Skin Care,Prakriti,369.52,445.33,30,500,Y
+2025/12/21 13:00:00,PRD000493,Fresh Detergent 493,Home Care,Detergent,Sampoorna,295.18,377.16,180,1,Y
+2025/12/21 14:00:00,PRD000494,Gold Grains 494,Staples,Grains,Navya,66.62,82.74,30,500,Y
+2025/12/21 15:00:00,PRD000495,Natural Juice 495,Beverages,Juice,Navya,29.07,41.12,540,1,Y
+2025/12/21 16:00:00,PRD000496,Classic Biscuits 496,Snacks,Biscuits,Sampoorna,121.31,153.83,180,1,Y
+2025/12/21 17:00:00,PRD000497,Gold Skin Care 497,Personal Care,Skin Care,Sampoorna,259.71,357.24,180,250,Y
+2025/12/21 18:00:00,PRD000498,Gold Detergent 498,Home Care,Detergent,Sampoorna,187.05,267.93,30,1,Y
+2025/12/21 19:00:00,PRD000499,Daily Grains 499,Staples,Grains,Navya,254.57,302.96,180,500,Y
+2025/12/21 20:00:00,PRD000500,Natural Juice 500,Beverages,Juice,Sampoorna,244.65,348.16,540,100,Y
+2025/12/21 21:00:00,PRD000501,Fresh Biscuits 501,Snacks,Biscuits,Sampoorna,381.13,572.65,180,500,Y
+2025/12/21 22:00:00,PRD000502,Gold Skin Care 502,Personal Care,Skin Care,Prakriti,141.06,181.42,180,100,Y
+2025/12/21 23:00:00,PRD000503,Gold Detergent 503,Home Care,Detergent,Navya,405.37,543.47,90,1,Y
+2025/12/22 00:00:00,PRD000504,Gold Grains 504,Staples,Grains,Prakriti,458.01,591.71,540,1,Y
+2025/12/22 01:00:00,PRD000505,Fresh Juice 505,Beverages,Juice,Sampoorna,82.89,130.72,540,250,Y
+2025/12/22 02:00:00,PRD000506,Fresh Biscuits 506,Snacks,Biscuits,Prakriti,162.60,201.87,540,100,Y
+2025/12/22 03:00:00,PRD000507,Classic Skin Care 507,Personal Care,Skin Care,Utsav,26.56,32.06,180,1,Y
+2025/12/22 04:00:00,PRD000508,Daily Detergent 508,Home Care,Detergent,Navya,403.20,525.79,365,500,Y
+2025/12/22 05:00:00,PRD000509,Classic Grains 509,Staples,Grains,Sampoorna,23.45,35.98,540,500,Y
+2025/12/22 06:00:00,PRD000510,Daily Juice 510,Beverages,Juice,Sampoorna,465.88,683.36,90,500,Y
+2025/12/22 07:00:00,PRD000511,Classic Biscuits 511,Snacks,Biscuits,Navya,95.84,126.43,30,1,Y
+2025/12/22 08:00:00,PRD000512,Fresh Skin Care 512,Personal Care,Skin Care,Sampoorna,171.38,235.51,180,1,Y
+2025/12/22 09:00:00,PRD000513,Natural Detergent 513,Home Care,Detergent,Sampoorna,158.21,202.04,90,1,N
+2025/12/22 10:00:00,PRD000514,Natural Grains 514,Staples,Grains,Prakriti,256.24,334.29,30,1,Y
+2025/12/22 11:00:00,PRD000515,Classic Juice 515,Beverages,Juice,Utsav,462.06,608.39,90,1,Y
+2025/12/22 12:00:00,PRD000516,Daily Biscuits 516,Snacks,Biscuits,Navya,331.20,393.90,180,250,Y
+2025/12/22 13:00:00,PRD000517,Natural Skin Care 517,Personal Care,Skin Care,Prakriti,402.20,475.74,540,1,Y
+2025/12/22 14:00:00,PRD000518,Daily Detergent 518,Home Care,Detergent,Navya,379.73,584.56,365,250,Y
+2025/12/22 15:00:00,PRD000519,Fresh Grains 519,Staples,Grains,Prakriti,327.85,460.84,30,500,Y
+2025/12/22 16:00:00,PRD000520,Fresh Juice 520,Beverages,Juice,Utsav,245.76,375.23,180,1,Y
+2025/12/22 17:00:00,PRD000521,Gold Biscuits 521,Snacks,Biscuits,Utsav,254.92,387.58,90,100,Y
+2025/12/22 18:00:00,PRD000522,Fresh Skin Care 522,Personal Care,Skin Care,Aarohan,67.51,99.36,180,250,Y
+2025/12/22 19:00:00,PRD000523,Daily Detergent 523,Home Care,Detergent,Utsav,34.09,51.49,540,100,Y
+2025/12/22 20:00:00,PRD000524,Gold Grains 524,Staples,Grains,Prakriti,117.47,170.61,365,250,Y
+2025/12/22 21:00:00,PRD000525,Classic Juice 525,Beverages,Juice,Utsav,355.61,423.24,540,500,Y
+2025/12/22 22:00:00,PRD000526,Fresh Biscuits 526,Snacks,Biscuits,Aarohan,167.42,208.81,30,250,Y
+2025/12/22 23:00:00,PRD000527,Natural Skin Care 527,Personal Care,Skin Care,Navya,230.95,266.67,90,500,Y
+2025/12/23 00:00:00,PRD000528,Daily Detergent 528,Home Care,Detergent,Sampoorna,322.43,459.82,30,1,Y
+2025/12/23 01:00:00,PRD000529,Gold Grains 529,Staples,Grains,Sampoorna,373.42,594.66,30,1,Y
+2025/12/23 02:00:00,PRD000530,Gold Juice 530,Beverages,Juice,Navya,87.28,114.74,180,1,Y
+2025/12/23 03:00:00,PRD000531,Fresh Biscuits 531,Snacks,Biscuits,Utsav,414.25,497.57,180,500,Y
+2025/12/23 04:00:00,PRD000532,Natural Skin Care 532,Personal Care,Skin Care,Utsav,421.50,577.09,90,1,Y
+2025/12/23 05:00:00,PRD000533,Gold Detergent 533,Home Care,Detergent,Sampoorna,122.53,161.74,30,1,Y
+2025/12/23 06:00:00,PRD000534,Natural Grains 534,Staples,Grains,Prakriti,213.55,313.74,180,250,Y
+2025/12/23 07:00:00,PRD000535,Daily Juice 535,Beverages,Juice,Sampoorna,39.60,50.87,540,500,Y
+2025/12/23 08:00:00,PRD000536,Daily Biscuits 536,Snacks,Biscuits,Aarohan,31.62,44.09,180,100,Y
+2025/12/23 09:00:00,PRD000537,Gold Skin Care 537,Personal Care,Skin Care,Sampoorna,114.36,143.05,90,500,Y
+2025/12/23 10:00:00,PRD000538,Gold Detergent 538,Home Care,Detergent,Utsav,296.78,347.88,540,250,Y
+2025/12/23 11:00:00,PRD000539,Classic Grains 539,Staples,Grains,Prakriti,258.78,299.78,365,1,Y
+2025/12/23 12:00:00,PRD000540,Classic Juice 540,Beverages,Juice,Navya,451.65,682.20,365,100,Y
+2025/12/23 13:00:00,PRD000541,Natural Biscuits 541,Snacks,Biscuits,Navya,292.73,344.04,30,1,Y
+2025/12/23 14:00:00,PRD000542,Fresh Skin Care 542,Personal Care,Skin Care,Navya,162.83,232.88,365,1,Y
+2025/12/23 15:00:00,PRD000543,Daily Detergent 543,Home Care,Detergent,Utsav,24.50,36.63,365,500,Y
+2025/12/23 16:00:00,PRD000544,Natural Grains 544,Staples,Grains,Navya,42.39,57.60,180,500,Y
+2025/12/23 17:00:00,PRD000545,Daily Juice 545,Beverages,Juice,Sampoorna,73.37,114.95,365,250,Y
+2025/12/23 18:00:00,PRD000546,Daily Biscuits 546,Snacks,Biscuits,Prakriti,400.51,469.49,365,1,Y
+2025/12/23 19:00:00,PRD000547,Gold Skin Care 547,Personal Care,Skin Care,Navya,399.15,572.18,90,1,Y
+2025/12/23 20:00:00,PRD000548,Daily Detergent 548,Home Care,Detergent,Navya,450.27,629.91,540,1,Y
+2025/12/23 21:00:00,PRD000549,Natural Grains 549,Staples,Grains,Prakriti,170.10,245.66,90,500,Y
+2025/12/23 22:00:00,PRD000550,Classic Juice 550,Beverages,Juice,Sampoorna,407.57,540.19,30,250,Y
+2025/12/23 23:00:00,PRD000551,Natural Biscuits 551,Snacks,Biscuits,Aarohan,154.93,212.50,540,1,Y
+2025/12/24 00:00:00,PRD000552,Gold Skin Care 552,Personal Care,Skin Care,Navya,290.08,456.02,30,1,Y
+2025/12/24 01:00:00,PRD000553,Fresh Detergent 553,Home Care,Detergent,Utsav,40.60,56.62,90,250,Y
+2025/12/24 02:00:00,PRD000554,Gold Grains 554,Staples,Grains,Prakriti,74.06,101.59,365,250,Y
+2025/12/24 03:00:00,PRD000555,Classic Juice 555,Beverages,Juice,Navya,52.46,60.90,365,500,Y
+2025/12/24 04:00:00,PRD000556,Gold Biscuits 556,Snacks,Biscuits,Sampoorna,118.87,180.43,30,1,Y
+2025/12/24 05:00:00,PRD000557,Fresh Skin Care 557,Personal Care,Skin Care,Prakriti,107.79,136.56,180,100,Y
+2025/12/24 06:00:00,PRD000558,Gold Detergent 558,Home Care,Detergent,Aarohan,116.42,154.11,90,500,Y
+2025/12/24 07:00:00,PRD000559,Fresh Grains 559,Staples,Grains,Prakriti,270.35,358.18,540,250,Y
+2025/12/24 08:00:00,PRD000560,Classic Juice 560,Beverages,Juice,Navya,261.07,306.65,365,100,Y
+2025/12/24 09:00:00,PRD000561,Gold Biscuits 561,Snacks,Biscuits,Utsav,166.46,248.97,180,500,Y
+2025/12/24 10:00:00,PRD000562,Classic Skin Care 562,Personal Care,Skin Care,Prakriti,53.75,84.13,180,250,Y
+2025/12/24 11:00:00,PRD000563,Natural Detergent 563,Home Care,Detergent,Prakriti,157.82,184.25,540,100,Y
+2025/12/24 12:00:00,PRD000564,Daily Grains 564,Staples,Grains,Utsav,261.47,416.95,90,250,Y
+2025/12/24 13:00:00,PRD000565,Natural Juice 565,Beverages,Juice,Sampoorna,285.30,399.50,30,1,Y
+2025/12/24 14:00:00,PRD000566,Daily Biscuits 566,Snacks,Biscuits,Utsav,293.30,358.61,180,1,Y
+2025/12/24 15:00:00,PRD000567,Gold Skin Care 567,Personal Care,Skin Care,Utsav,104.98,155.75,365,100,Y
+2025/12/24 16:00:00,PRD000568,Classic Detergent 568,Home Care,Detergent,Utsav,93.07,135.25,180,1,Y
+2025/12/24 17:00:00,PRD000569,Natural Grains 569,Staples,Grains,Utsav,168.65,227.56,30,250,Y
+2025/12/24 18:00:00,PRD000570,Natural Juice 570,Beverages,Juice,Utsav,327.57,406.68,365,1,N
+2025/12/24 19:00:00,PRD000571,Daily Biscuits 571,Snacks,Biscuits,Aarohan,34.53,50.46,30,1,Y
+2025/12/24 20:00:00,PRD000572,Natural Skin Care 572,Personal Care,Skin Care,Utsav,266.21,358.37,90,1,Y
+2025/12/24 21:00:00,PRD000573,Gold Detergent 573,Home Care,Detergent,Navya,62.71,73.95,540,250,Y
+2025/12/24 22:00:00,PRD000574,Fresh Grains 574,Staples,Grains,Navya,65.18,81.17,180,250,Y
+2025/12/24 23:00:00,PRD000575,Natural Juice 575,Beverages,Juice,Utsav,261.82,395.39,90,1,Y
+2025/12/25 00:00:00,PRD000576,Gold Biscuits 576,Snacks,Biscuits,Navya,394.77,511.72,180,250,Y
+2025/12/25 01:00:00,PRD000577,Gold Skin Care 577,Personal Care,Skin Care,Utsav,96.72,126.81,180,100,Y
+2025/12/25 02:00:00,PRD000578,Gold Detergent 578,Home Care,Detergent,Aarohan,384.36,502.31,180,500,Y
+2025/12/25 03:00:00,PRD000579,Classic Grains 579,Staples,Grains,Aarohan,159.40,239.30,180,1,Y
+2025/12/25 04:00:00,PRD000580,Gold Juice 580,Beverages,Juice,Aarohan,132.03,192.30,30,250,Y
+2025/12/25 05:00:00,PRD000581,Natural Biscuits 581,Snacks,Biscuits,Aarohan,301.66,367.87,365,100,Y
+2025/12/25 06:00:00,PRD000582,Daily Skin Care 582,Personal Care,Skin Care,Utsav,294.60,435.46,540,1,Y
+2025/12/25 07:00:00,PRD000583,Gold Detergent 583,Home Care,Detergent,Navya,340.55,397.96,365,500,Y
+2025/12/25 08:00:00,PRD000584,Gold Grains 584,Staples,Grains,Aarohan,262.71,311.70,90,1,Y
+2025/12/25 09:00:00,PRD000585,Fresh Juice 585,Beverages,Juice,Aarohan,291.41,451.88,365,500,Y
+2025/12/25 10:00:00,PRD000586,Fresh Biscuits 586,Snacks,Biscuits,Prakriti,401.91,490.09,180,500,Y
+2025/12/25 11:00:00,PRD000587,Fresh Skin Care 587,Personal Care,Skin Care,Prakriti,268.16,371.98,365,500,Y
+2025/12/25 12:00:00,PRD000588,Classic Detergent 588,Home Care,Detergent,Utsav,440.73,542.23,30,500,Y
+2025/12/25 13:00:00,PRD000589,Natural Grains 589,Staples,Grains,Utsav,34.88,42.80,90,100,Y
+2025/12/25 14:00:00,PRD000590,Daily Juice 590,Beverages,Juice,Utsav,449.76,542.10,540,1,Y
+2025/12/25 15:00:00,PRD000591,Daily Biscuits 591,Snacks,Biscuits,Aarohan,151.03,195.42,180,100,Y
+2025/12/25 16:00:00,PRD000592,Natural Skin Care 592,Personal Care,Skin Care,Utsav,353.35,455.82,365,1,Y
+2025/12/25 17:00:00,PRD000593,Daily Detergent 593,Home Care,Detergent,Utsav,355.28,528.89,540,1,Y
+2025/12/25 18:00:00,PRD000594,Gold Grains 594,Staples,Grains,Prakriti,162.12,220.33,365,500,Y
+2025/12/25 19:00:00,PRD000595,Daily Juice 595,Beverages,Juice,Prakriti,221.79,275.25,180,250,Y
+2025/12/25 20:00:00,PRD000596,Fresh Biscuits 596,Snacks,Biscuits,Aarohan,79.25,123.95,30,500,Y
+2025/12/25 21:00:00,PRD000597,Daily Skin Care 597,Personal Care,Skin Care,Navya,310.73,422.37,365,250,Y
+2025/12/25 22:00:00,PRD000598,Natural Detergent 598,Home Care,Detergent,Prakriti,257.71,401.19,30,1,Y
+2025/12/25 23:00:00,PRD000599,Gold Grains 599,Staples,Grains,Sampoorna,103.38,123.55,540,1,Y
+2025/12/01 00:00:00,PRD000600,Classic Juice 600,Beverages,Juice,Navya,110.34,135.19,90,100,Y
+2025/12/01 01:00:00,PRD000601,Gold Biscuits 601,Snacks,Biscuits,Sampoorna,165.65,237.54,365,500,Y
+2025/12/01 02:00:00,PRD000602,Natural Skin Care 602,Personal Care,Skin Care,Sampoorna,426.83,543.45,540,1,Y
+2025/12/01 03:00:00,PRD000603,Classic Detergent 603,Home Care,Detergent,Utsav,166.13,215.53,540,100,Y
+2025/12/01 04:00:00,PRD000604,Daily Grains 604,Staples,Grains,Prakriti,394.05,486.47,365,500,Y
+2025/12/01 05:00:00,PRD000605,Classic Juice 605,Beverages,Juice,Sampoorna,338.98,408.62,540,100,Y
+2025/12/01 06:00:00,PRD000606,Classic Biscuits 606,Snacks,Biscuits,Prakriti,428.66,613.17,180,1,Y
+2025/12/01 07:00:00,PRD000607,Classic Skin Care 607,Personal Care,Skin Care,Utsav,442.65,522.87,30,1,Y
+2025/12/01 08:00:00,PRD000608,Classic Detergent 608,Home Care,Detergent,Utsav,182.21,260.46,365,500,Y
+2025/12/01 09:00:00,PRD000609,Fresh Grains 609,Staples,Grains,Utsav,369.55,463.60,180,1,Y
+2025/12/01 10:00:00,PRD000610,Classic Juice 610,Beverages,Juice,Utsav,153.59,244.43,30,100,Y
+2025/12/01 11:00:00,PRD000611,Classic Biscuits 611,Snacks,Biscuits,Aarohan,254.56,329.96,180,1,Y
+2025/12/01 12:00:00,PRD000612,Fresh Skin Care 612,Personal Care,Skin Care,Aarohan,122.28,147.89,90,250,Y
+2025/12/01 13:00:00,PRD000613,Daily Detergent 613,Home Care,Detergent,Aarohan,205.44,289.56,540,250,Y
+2025/12/01 14:00:00,PRD000614,Fresh Grains 614,Staples,Grains,Prakriti,287.75,348.84,90,250,Y
+2025/12/01 15:00:00,PRD000615,Gold Juice 615,Beverages,Juice,Aarohan,427.07,543.01,540,1,Y
+2025/12/01 16:00:00,PRD000616,Gold Biscuits 616,Snacks,Biscuits,Utsav,251.62,373.65,90,100,Y
+2025/12/01 17:00:00,PRD000617,Classic Skin Care 617,Personal Care,Skin Care,Sampoorna,434.64,631.34,90,1,Y
+2025/12/01 18:00:00,PRD000618,Gold Detergent 618,Home Care,Detergent,Aarohan,142.19,188.50,30,500,Y
+2025/12/01 19:00:00,PRD000619,Fresh Grains 619,Staples,Grains,Prakriti,81.22,121.03,540,1,Y
+2025/12/01 20:00:00,PRD000620,Gold Juice 620,Beverages,Juice,Sampoorna,391.65,572.51,30,100,Y
+2025/12/01 21:00:00,PRD000621,Daily Biscuits 621,Snacks,Biscuits,Navya,282.87,359.52,30,1,Y
+2025/12/01 22:00:00,PRD000622,Natural Skin Care 622,Personal Care,Skin Care,Navya,251.48,348.01,180,1,Y
+2025/12/01 23:00:00,PRD000623,Gold Detergent 623,Home Care,Detergent,Aarohan,311.32,460.99,540,1,Y
+2025/12/02 00:00:00,PRD000624,Classic Grains 624,Staples,Grains,Prakriti,387.65,618.94,365,250,Y
+2025/12/02 01:00:00,PRD000625,Classic Juice 625,Beverages,Juice,Utsav,62.34,92.88,30,250,Y
+2025/12/02 02:00:00,PRD000626,Daily Biscuits 626,Snacks,Biscuits,Utsav,45.73,53.61,30,500,Y
+2025/12/02 03:00:00,PRD000627,Daily Skin Care 627,Personal Care,Skin Care,Utsav,90.38,128.78,365,100,N
+2025/12/02 04:00:00,PRD000628,Daily Detergent 628,Home Care,Detergent,Prakriti,407.45,590.93,540,250,Y
+2025/12/02 05:00:00,PRD000629,Fresh Grains 629,Staples,Grains,Sampoorna,230.93,300.40,30,100,Y
+2025/12/02 06:00:00,PRD000630,Daily Juice 630,Beverages,Juice,Prakriti,455.68,560.45,180,1,Y
+2025/12/02 07:00:00,PRD000631,Daily Biscuits 631,Snacks,Biscuits,Prakriti,185.51,258.31,30,1,Y
+2025/12/02 08:00:00,PRD000632,Daily Skin Care 632,Personal Care,Skin Care,Navya,31.84,40.69,180,1,Y
+2025/12/02 09:00:00,PRD000633,Gold Detergent 633,Home Care,Detergent,Aarohan,146.17,195.29,90,100,Y
+2025/12/02 10:00:00,PRD000634,Natural Grains 634,Staples,Grains,Navya,245.24,379.82,540,1,Y
+2025/12/02 11:00:00,PRD000635,Classic Juice 635,Beverages,Juice,Aarohan,44.75,64.36,365,1,Y
+2025/12/02 12:00:00,PRD000636,Natural Biscuits 636,Snacks,Biscuits,Prakriti,175.96,210.96,180,1,Y
+2025/12/02 13:00:00,PRD000637,Classic Skin Care 637,Personal Care,Skin Care,Prakriti,346.39,493.41,90,250,Y
+2025/12/02 14:00:00,PRD000638,Gold Detergent 638,Home Care,Detergent,Utsav,445.74,674.06,540,100,Y
+2025/12/02 15:00:00,PRD000639,Fresh Grains 639,Staples,Grains,Aarohan,29.94,39.37,365,500,Y
+2025/12/02 16:00:00,PRD000640,Classic Juice 640,Beverages,Juice,Prakriti,167.82,217.18,540,250,Y
+2025/12/02 17:00:00,PRD000641,Daily Biscuits 641,Snacks,Biscuits,Navya,255.09,402.61,180,1,Y
+2025/12/02 18:00:00,PRD000642,Natural Skin Care 642,Personal Care,Skin Care,Sampoorna,339.75,447.15,365,250,Y
+2025/12/02 19:00:00,PRD000643,Fresh Detergent 643,Home Care,Detergent,Navya,337.87,481.36,180,250,Y
+2025/12/02 20:00:00,PRD000644,Classic Grains 644,Staples,Grains,Aarohan,444.94,533.06,30,1,Y
+2025/12/02 21:00:00,PRD000645,Fresh Juice 645,Beverages,Juice,Aarohan,358.66,544.32,540,100,Y
+2025/12/02 22:00:00,PRD000646,Daily Biscuits 646,Snacks,Biscuits,Navya,383.86,505.52,540,1,Y
+2025/12/02 23:00:00,PRD000647,Classic Skin Care 647,Personal Care,Skin Care,Aarohan,58.99,89.56,180,100,Y
+2025/12/03 00:00:00,PRD000648,Natural Detergent 648,Home Care,Detergent,Navya,421.19,643.02,180,250,Y
+2025/12/03 01:00:00,PRD000649,Fresh Grains 649,Staples,Grains,Sampoorna,188.50,277.07,540,1,Y
+2025/12/03 02:00:00,PRD000650,Gold Juice 650,Beverages,Juice,Aarohan,440.38,593.64,30,1,Y
+2025/12/03 03:00:00,PRD000651,Daily Biscuits 651,Snacks,Biscuits,Aarohan,62.66,79.92,90,1,Y
+2025/12/03 04:00:00,PRD000652,Daily Skin Care 652,Personal Care,Skin Care,Navya,460.14,724.95,180,1,Y
+2025/12/03 05:00:00,PRD000653,Gold Detergent 653,Home Care,Detergent,Prakriti,376.24,460.90,180,1,Y
+2025/12/03 06:00:00,PRD000654,Daily Grains 654,Staples,Grains,Prakriti,53.20,83.70,90,500,Y
+2025/12/03 07:00:00,PRD000655,Gold Juice 655,Beverages,Juice,Utsav,96.07,152.54,365,1,Y
+2025/12/03 08:00:00,PRD000656,Gold Biscuits 656,Snacks,Biscuits,Sampoorna,413.37,495.85,180,500,Y
+2025/12/03 09:00:00,PRD000657,Fresh Skin Care 657,Personal Care,Skin Care,Prakriti,235.84,301.56,540,100,Y
+2025/12/03 10:00:00,PRD000658,Fresh Detergent 658,Home Care,Detergent,Utsav,49.17,64.08,365,1,Y
+2025/12/03 11:00:00,PRD000659,Fresh Grains 659,Staples,Grains,Prakriti,84.36,127.92,540,250,Y
+2025/12/03 12:00:00,PRD000660,Daily Juice 660,Beverages,Juice,Utsav,216.10,288.09,540,250,Y
+2025/12/03 13:00:00,PRD000661,Gold Biscuits 661,Snacks,Biscuits,Prakriti,84.92,98.24,30,1,Y
+2025/12/03 14:00:00,PRD000662,Gold Skin Care 662,Personal Care,Skin Care,Sampoorna,286.08,374.35,540,250,Y
+2025/12/03 15:00:00,PRD000663,Gold Detergent 663,Home Care,Detergent,Aarohan,124.08,157.28,90,250,Y
+2025/12/03 16:00:00,PRD000664,Classic Grains 664,Staples,Grains,Navya,111.61,153.52,90,100,Y
+2025/12/03 17:00:00,PRD000665,Natural Juice 665,Beverages,Juice,Utsav,349.50,476.59,90,250,Y
+2025/12/03 18:00:00,PRD000666,Fresh Biscuits 666,Snacks,Biscuits,Prakriti,379.91,471.95,540,100,Y
+2025/12/03 19:00:00,PRD000667,Gold Skin Care 667,Personal Care,Skin Care,Aarohan,145.72,174.59,540,100,Y
+2025/12/03 20:00:00,PRD000668,Classic Detergent 668,Home Care,Detergent,Prakriti,459.92,555.65,180,1,Y
+2025/12/03 21:00:00,PRD000669,Fresh Grains 669,Staples,Grains,Navya,186.98,258.14,180,1,Y
+2025/12/03 22:00:00,PRD000670,Daily Juice 670,Beverages,Juice,Sampoorna,389.85,491.61,180,250,Y
+2025/12/03 23:00:00,PRD000671,Gold Biscuits 671,Snacks,Biscuits,Navya,397.15,470.76,90,250,Y
+2025/12/04 00:00:00,PRD000672,Fresh Skin Care 672,Personal Care,Skin Care,Sampoorna,458.16,652.34,90,1,Y
+2025/12/04 01:00:00,PRD000673,Daily Detergent 673,Home Care,Detergent,Prakriti,195.63,251.59,365,500,Y
+2025/12/04 02:00:00,PRD000674,Gold Grains 674,Staples,Grains,Navya,361.74,551.57,365,250,Y
+2025/12/04 03:00:00,PRD000675,Daily Juice 675,Beverages,Juice,Sampoorna,314.91,380.39,540,1,Y
+2025/12/04 04:00:00,PRD000676,Natural Biscuits 676,Snacks,Biscuits,Utsav,386.89,461.07,365,1,Y
+2025/12/04 05:00:00,PRD000677,Classic Skin Care 677,Personal Care,Skin Care,Sampoorna,39.50,59.63,30,1,Y
+2025/12/04 06:00:00,PRD000678,Natural Detergent 678,Home Care,Detergent,Sampoorna,243.11,366.40,30,500,Y
+2025/12/04 07:00:00,PRD000679,Daily Grains 679,Staples,Grains,Sampoorna,336.47,475.85,180,1,Y
+2025/12/04 08:00:00,PRD000680,Daily Juice 680,Beverages,Juice,Utsav,249.20,337.50,90,100,Y
+2025/12/04 09:00:00,PRD000681,Natural Biscuits 681,Snacks,Biscuits,Navya,210.58,329.23,365,250,Y
+2025/12/04 10:00:00,PRD000682,Classic Skin Care 682,Personal Care,Skin Care,Sampoorna,318.87,502.75,365,250,Y
+2025/12/04 11:00:00,PRD000683,Classic Detergent 683,Home Care,Detergent,Prakriti,90.45,104.02,90,250,Y
+2025/12/04 12:00:00,PRD000684,Natural Grains 684,Staples,Grains,Prakriti,256.99,308.33,90,1,N
+2025/12/04 13:00:00,PRD000685,Classic Juice 685,Beverages,Juice,Aarohan,230.73,270.56,30,250,Y
+2025/12/04 14:00:00,PRD000686,Fresh Biscuits 686,Snacks,Biscuits,Sampoorna,381.83,568.08,365,100,Y
+2025/12/04 15:00:00,PRD000687,Classic Skin Care 687,Personal Care,Skin Care,Aarohan,336.98,433.74,540,1,Y
+2025/12/04 16:00:00,PRD000688,Gold Detergent 688,Home Care,Detergent,Navya,115.54,174.85,30,1,Y
+2025/12/04 17:00:00,PRD000689,Classic Grains 689,Staples,Grains,Navya,248.73,365.21,30,500,Y
+2025/12/04 18:00:00,PRD000690,Daily Juice 690,Beverages,Juice,Prakriti,360.78,564.71,365,500,Y
+2025/12/04 19:00:00,PRD000691,Gold Biscuits 691,Snacks,Biscuits,Utsav,188.11,290.08,540,500,Y
+2025/12/04 20:00:00,PRD000692,Gold Skin Care 692,Personal Care,Skin Care,Utsav,426.60,637.59,365,1,Y
+2025/12/04 21:00:00,PRD000693,Natural Detergent 693,Home Care,Detergent,Navya,251.78,311.62,90,100,Y
+2025/12/04 22:00:00,PRD000694,Daily Grains 694,Staples,Grains,Sampoorna,456.98,635.34,90,100,Y
+2025/12/04 23:00:00,PRD000695,Gold Juice 695,Beverages,Juice,Sampoorna,339.44,457.79,365,100,Y
+2025/12/05 00:00:00,PRD000696,Natural Biscuits 696,Snacks,Biscuits,Aarohan,443.01,635.64,180,500,Y
+2025/12/05 01:00:00,PRD000697,Fresh Skin Care 697,Personal Care,Skin Care,Navya,147.51,206.16,180,1,Y
+2025/12/05 02:00:00,PRD000698,Classic Detergent 698,Home Care,Detergent,Prakriti,453.87,645.37,540,1,Y
+2025/12/05 03:00:00,PRD000699,Natural Grains 699,Staples,Grains,Navya,244.60,290.95,180,1,Y
+2025/12/05 04:00:00,PRD000700,Gold Juice 700,Beverages,Juice,Navya,184.12,264.47,30,1,Y
+2025/12/05 05:00:00,PRD000701,Gold Biscuits 701,Snacks,Biscuits,Aarohan,383.44,512.64,180,1,Y
+2025/12/05 06:00:00,PRD000702,Daily Skin Care 702,Personal Care,Skin Care,Utsav,196.29,301.03,90,250,Y
+2025/12/05 07:00:00,PRD000703,Fresh Detergent 703,Home Care,Detergent,Sampoorna,113.03,146.95,30,100,Y
+2025/12/05 08:00:00,PRD000704,Natural Grains 704,Staples,Grains,Aarohan,343.35,438.92,30,1,Y
+2025/12/05 09:00:00,PRD000705,Classic Juice 705,Beverages,Juice,Prakriti,406.24,607.67,540,100,Y
+2025/12/05 10:00:00,PRD000706,Natural Biscuits 706,Snacks,Biscuits,Sampoorna,238.63,352.55,90,1,Y
+2025/12/05 11:00:00,PRD000707,Natural Skin Care 707,Personal Care,Skin Care,Navya,442.78,629.13,90,500,Y
+2025/12/05 12:00:00,PRD000708,Gold Detergent 708,Home Care,Detergent,Utsav,414.57,547.97,365,500,Y
+2025/12/05 13:00:00,PRD000709,Classic Grains 709,Staples,Grains,Aarohan,105.59,151.05,540,100,Y
+2025/12/05 14:00:00,PRD000710,Fresh Juice 710,Beverages,Juice,Utsav,87.79,135.29,90,1,Y
+2025/12/05 15:00:00,PRD000711,Fresh Biscuits 711,Snacks,Biscuits,Utsav,390.63,554.49,30,250,Y
+2025/12/05 16:00:00,PRD000712,Classic Skin Care 712,Personal Care,Skin Care,Aarohan,388.71,595.98,180,500,Y
+2025/12/05 17:00:00,PRD000713,Classic Detergent 713,Home Care,Detergent,Utsav,96.38,143.03,90,250,Y
+2025/12/05 18:00:00,PRD000714,Daily Grains 714,Staples,Grains,Utsav,78.28,92.88,180,250,Y
+2025/12/05 19:00:00,PRD000715,Gold Juice 715,Beverages,Juice,Sampoorna,233.44,372.80,30,500,Y
+2025/12/05 20:00:00,PRD000716,Natural Biscuits 716,Snacks,Biscuits,Utsav,38.55,59.65,180,100,Y
+2025/12/05 21:00:00,PRD000717,Classic Skin Care 717,Personal Care,Skin Care,Aarohan,184.04,287.44,180,250,Y
+2025/12/05 22:00:00,PRD000718,Classic Detergent 718,Home Care,Detergent,Navya,306.60,383.58,30,1,Y
+2025/12/05 23:00:00,PRD000719,Gold Grains 719,Staples,Grains,Navya,425.03,490.28,30,1,Y
+2025/12/06 00:00:00,PRD000720,Gold Juice 720,Beverages,Juice,Prakriti,408.73,596.67,365,100,Y
+2025/12/06 01:00:00,PRD000721,Daily Biscuits 721,Snacks,Biscuits,Aarohan,389.38,457.74,540,500,Y
+2025/12/06 02:00:00,PRD000722,Natural Skin Care 722,Personal Care,Skin Care,Utsav,261.87,402.75,90,500,Y
+2025/12/06 03:00:00,PRD000723,Fresh Detergent 723,Home Care,Detergent,Utsav,328.42,397.68,540,1,Y
+2025/12/06 04:00:00,PRD000724,Classic Grains 724,Staples,Grains,Prakriti,62.57,79.80,365,100,Y
+2025/12/06 05:00:00,PRD000725,Fresh Juice 725,Beverages,Juice,Utsav,248.41,289.25,540,250,Y
+2025/12/06 06:00:00,PRD000726,Natural Biscuits 726,Snacks,Biscuits,Utsav,408.54,486.91,365,100,Y
+2025/12/06 07:00:00,PRD000727,Natural Skin Care 727,Personal Care,Skin Care,Navya,99.33,118.07,30,250,Y
+2025/12/06 08:00:00,PRD000728,Daily Detergent 728,Home Care,Detergent,Sampoorna,418.32,483.50,90,100,Y
+2025/12/06 09:00:00,PRD000729,Fresh Grains 729,Staples,Grains,Sampoorna,33.45,39.73,180,500,Y
+2025/12/06 10:00:00,PRD000730,Daily Juice 730,Beverages,Juice,Utsav,39.62,46.77,90,250,Y
+2025/12/06 11:00:00,PRD000731,Daily Biscuits 731,Snacks,Biscuits,Utsav,212.09,311.90,540,500,Y
+2025/12/06 12:00:00,PRD000732,Natural Skin Care 732,Personal Care,Skin Care,Sampoorna,265.85,348.90,540,500,Y
+2025/12/06 13:00:00,PRD000733,Daily Detergent 733,Home Care,Detergent,Sampoorna,279.12,399.01,30,500,Y
+2025/12/06 14:00:00,PRD000734,Fresh Grains 734,Staples,Grains,Aarohan,240.49,295.83,180,1,Y
+2025/12/06 15:00:00,PRD000735,Daily Juice 735,Beverages,Juice,Sampoorna,369.95,582.15,540,100,Y
+2025/12/06 16:00:00,PRD000736,Natural Biscuits 736,Snacks,Biscuits,Sampoorna,237.40,279.30,540,1,Y
+2025/12/06 17:00:00,PRD000737,Daily Skin Care 737,Personal Care,Skin Care,Sampoorna,456.07,671.06,90,1,Y
+2025/12/06 18:00:00,PRD000738,Daily Detergent 738,Home Care,Detergent,Utsav,57.12,66.06,540,100,Y
+2025/12/06 19:00:00,PRD000739,Fresh Grains 739,Staples,Grains,Prakriti,202.80,306.62,540,1,Y
+2025/12/06 20:00:00,PRD000740,Gold Juice 740,Beverages,Juice,Utsav,239.22,282.39,365,1,Y
+2025/12/06 21:00:00,PRD000741,Gold Biscuits 741,Snacks,Biscuits,Prakriti,29.42,41.91,30,100,N
+2025/12/06 22:00:00,PRD000742,Gold Skin Care 742,Personal Care,Skin Care,Sampoorna,311.51,446.96,540,1,Y
+2025/12/06 23:00:00,PRD000743,Natural Detergent 743,Home Care,Detergent,Aarohan,78.45,110.88,365,250,Y
+2025/12/07 00:00:00,PRD000744,Gold Grains 744,Staples,Grains,Utsav,193.05,235.58,30,250,Y
+2025/12/07 01:00:00,PRD000745,Gold Juice 745,Beverages,Juice,Utsav,380.42,477.44,540,1,Y
+2025/12/07 02:00:00,PRD000746,Natural Biscuits 746,Snacks,Biscuits,Aarohan,405.81,520.90,365,1,Y
+2025/12/07 03:00:00,PRD000747,Daily Skin Care 747,Personal Care,Skin Care,Aarohan,163.29,229.71,540,1,Y
+2025/12/07 04:00:00,PRD000748,Gold Detergent 748,Home Care,Detergent,Utsav,160.96,237.16,180,1,Y
+2025/12/07 05:00:00,PRD000749,Gold Grains 749,Staples,Grains,Prakriti,221.48,302.63,180,250,Y
+2025/12/07 06:00:00,PRD000750,Natural Juice 750,Beverages,Juice,Prakriti,274.00,423.63,30,1,Y
+2025/12/07 07:00:00,PRD000751,Gold Biscuits 751,Snacks,Biscuits,Aarohan,346.27,467.41,365,1,Y
+2025/12/07 08:00:00,PRD000752,Gold Skin Care 752,Personal Care,Skin Care,Prakriti,202.71,261.93,365,1,Y
+2025/12/07 09:00:00,PRD000753,Gold Detergent 753,Home Care,Detergent,Navya,266.59,382.83,90,100,Y
+2025/12/07 10:00:00,PRD000754,Daily Grains 754,Staples,Grains,Sampoorna,296.40,353.82,180,100,Y
+2025/12/07 11:00:00,PRD000755,Fresh Juice 755,Beverages,Juice,Navya,267.14,352.58,90,500,Y
+2025/12/07 12:00:00,PRD000756,Daily Biscuits 756,Snacks,Biscuits,Utsav,207.16,276.38,540,1,Y
+2025/12/07 13:00:00,PRD000757,Classic Skin Care 757,Personal Care,Skin Care,Utsav,417.05,643.68,365,1,Y
+2025/12/07 14:00:00,PRD000758,Classic Detergent 758,Home Care,Detergent,Utsav,158.25,223.63,90,100,Y
+2025/12/07 15:00:00,PRD000759,Classic Grains 759,Staples,Grains,Prakriti,139.58,211.09,90,500,Y
+2025/12/07 16:00:00,PRD000760,Gold Juice 760,Beverages,Juice,Utsav,316.26,489.68,180,250,Y
+2025/12/07 17:00:00,PRD000761,Daily Biscuits 761,Snacks,Biscuits,Navya,436.09,662.93,540,1,Y
+2025/12/07 18:00:00,PRD000762,Gold Skin Care 762,Personal Care,Skin Care,Prakriti,341.98,516.92,365,1,Y
+2025/12/07 19:00:00,PRD000763,Classic Detergent 763,Home Care,Detergent,Navya,386.84,500.42,180,1,Y
+2025/12/07 20:00:00,PRD000764,Gold Grains 764,Staples,Grains,Utsav,20.35,29.80,90,1,Y
+2025/12/07 21:00:00,PRD000765,Classic Juice 765,Beverages,Juice,Utsav,32.13,42.44,90,250,Y
+2025/12/07 22:00:00,PRD000766,Gold Biscuits 766,Snacks,Biscuits,Aarohan,382.35,597.59,30,100,Y
+2025/12/07 23:00:00,PRD000767,Classic Skin Care 767,Personal Care,Skin Care,Navya,379.97,538.06,365,250,Y
+2025/12/08 00:00:00,PRD000768,Gold Detergent 768,Home Care,Detergent,Navya,192.21,270.75,540,500,Y
+2025/12/08 01:00:00,PRD000769,Gold Grains 769,Staples,Grains,Utsav,70.95,84.47,30,250,Y
+2025/12/08 02:00:00,PRD000770,Natural Juice 770,Beverages,Juice,Prakriti,320.34,404.15,30,1,Y
+2025/12/08 03:00:00,PRD000771,Daily Biscuits 771,Snacks,Biscuits,Utsav,40.52,50.06,180,500,Y
+2025/12/08 04:00:00,PRD000772,Gold Skin Care 772,Personal Care,Skin Care,Prakriti,347.24,532.19,180,500,Y
+2025/12/08 05:00:00,PRD000773,Classic Detergent 773,Home Care,Detergent,Navya,430.06,561.01,365,500,Y
+2025/12/08 06:00:00,PRD000774,Classic Grains 774,Staples,Grains,Sampoorna,284.15,448.30,365,250,Y
+2025/12/08 07:00:00,PRD000775,Fresh Juice 775,Beverages,Juice,Aarohan,383.69,590.94,90,250,Y
+2025/12/08 08:00:00,PRD000776,Fresh Biscuits 776,Snacks,Biscuits,Utsav,395.93,528.12,540,250,Y
+2025/12/08 09:00:00,PRD000777,Natural Skin Care 777,Personal Care,Skin Care,Utsav,43.75,51.41,90,100,Y
+2025/12/08 10:00:00,PRD000778,Daily Detergent 778,Home Care,Detergent,Aarohan,418.54,621.31,180,100,Y
+2025/12/08 11:00:00,PRD000779,Classic Grains 779,Staples,Grains,Utsav,372.26,438.91,30,1,Y
+2025/12/08 12:00:00,PRD000780,Daily Juice 780,Beverages,Juice,Sampoorna,302.14,373.68,90,500,Y
+2025/12/08 13:00:00,PRD000781,Classic Biscuits 781,Snacks,Biscuits,Utsav,144.20,220.43,180,100,Y
+2025/12/08 14:00:00,PRD000782,Classic Skin Care 782,Personal Care,Skin Care,Utsav,21.66,32.75,365,1,Y
+2025/12/08 15:00:00,PRD000783,Fresh Detergent 783,Home Care,Detergent,Sampoorna,112.34,150.48,365,1,Y
+2025/12/08 16:00:00,PRD000784,Daily Grains 784,Staples,Grains,Navya,199.76,305.08,90,250,Y
+2025/12/08 17:00:00,PRD000785,Natural Juice 785,Beverages,Juice,Navya,283.09,369.45,180,1,Y
+2025/12/08 18:00:00,PRD000786,Classic Biscuits 786,Snacks,Biscuits,Sampoorna,124.52,164.96,180,100,Y
+2025/12/08 19:00:00,PRD000787,Natural Skin Care 787,Personal Care,Skin Care,Sampoorna,380.35,545.37,30,100,Y
+2025/12/08 20:00:00,PRD000788,Fresh Detergent 788,Home Care,Detergent,Utsav,370.09,579.15,30,500,Y
+2025/12/08 21:00:00,PRD000789,Fresh Grains 789,Staples,Grains,Navya,126.98,186.82,90,100,Y
+2025/12/08 22:00:00,PRD000790,Fresh Juice 790,Beverages,Juice,Aarohan,182.81,254.43,30,250,Y
+2025/12/08 23:00:00,PRD000791,Natural Biscuits 791,Snacks,Biscuits,Utsav,127.15,152.83,540,1,Y
+2025/12/09 00:00:00,PRD000792,Gold Skin Care 792,Personal Care,Skin Care,Prakriti,303.81,417.62,365,1,Y
+2025/12/09 01:00:00,PRD000793,Fresh Detergent 793,Home Care,Detergent,Navya,245.08,315.42,540,1,Y
+2025/12/09 02:00:00,PRD000794,Natural Grains 794,Staples,Grains,Sampoorna,223.20,276.36,540,1,Y
+2025/12/09 03:00:00,PRD000795,Classic Juice 795,Beverages,Juice,Prakriti,355.69,487.04,30,1,Y
+2025/12/09 04:00:00,PRD000796,Gold Biscuits 796,Snacks,Biscuits,Navya,323.24,462.70,30,1,Y
+2025/12/09 05:00:00,PRD000797,Daily Skin Care 797,Personal Care,Skin Care,Utsav,234.14,317.42,180,500,Y
+2025/12/09 06:00:00,PRD000798,Classic Detergent 798,Home Care,Detergent,Aarohan,326.82,378.72,365,100,N
+2025/12/09 07:00:00,PRD000799,Gold Grains 799,Staples,Grains,Prakriti,139.25,163.39,90,1,Y
