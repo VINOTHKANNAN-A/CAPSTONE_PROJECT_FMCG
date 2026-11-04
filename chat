@@ -1,0 +1,4 @@
+Consider the bronze is done like all the clean, duplicate, reject and warning for all seven files from IDMC is now pushed to AWS s3 then in the snowflake for all the seven files a separate table is created with its column name and for the data type for all as varchar in the Bronze
+
+
+so now in the silver we will handle the data type, deduplication and relation validation for all the seven cleaned tables so here are the seven cleaned files 
